@@ -1,12 +1,10 @@
-20241010 @ 1234 | aneurokumar@gmail.com
-up:: 
-tags:: #article #neuroscience #anatomy
-X:: 
-
-> **Summary**
-> summary
-
-
+---
+public: true
+tags:
+  - "#article"
+  - "#neuroscience"
+  - "#anatomy"
+---
 Small changes can lead to profound benefits and improvements. Likewise, they can also massively affect your negatively. You might automatically think of habits such as setting out your clothes the night before to prevent decision fatigue. You will notice a significant decrease in anxiety when you plan tomorrow’s tasks.
 
 But there’s one thing you need to change if you want to see improvements in every part of your life.
@@ -25,7 +23,7 @@ When we’re younger, proper breathing is natural. [However, we change the way 
 
 Taking on a deep breathing practice can help you in different situations in life. These are the biggest benefits you’ll reap once you start a mindful breathing practice.
 
-# 1. Deep Breathing Mitigates an Unnecessary Fight or Flight Response
+### 1. Deep Breathing Mitigates an Unnecessary Fight or Flight Response
 
 Before modern society emerged, humans were not the apex predator. They faced threats such as hostile animals or exclusion from their protective groups. When they were faced with a threat, they had to act quickly in order to survive.
 
@@ -55,7 +53,7 @@ A consistent, long-term breathing habit will result in two positive outcomes for
 
 **_Long-term deep breathing, then, helps you forge new neural pathways that positively affect your mental health._**
 
-# 2. Deep Breathing Improves Your Focus
+### 2. Deep Breathing Improves Your Focus
 
 Think about the last time you felt anxious. Were you able to focus on the task at hand? Especially if the task was the _cause of your anxiety?_
 
@@ -73,7 +71,7 @@ When you feel your attention slipping, try the technique below.
 
 - If your attention is flitting but your state of arousal is at rest, then take deep “belly breaths” inhaling through your nose and exhaling through your mouth. Use a balanced count structure, like in [box breathing](https://www.healthline.com/health/box-breathing#slowly-exhale), and gently bring your focus to your breathing and the physical sensations you feel during this.
 
-# **3.** **Deep Breathing Helps Your Body Rest and Relax**
+### 3. Deep Breathing Helps Your Body Rest and Relax
 
 Your sympathetic nervous system has a counterpart: the parasympathetic nervous system. This system, unlike the sympathetic one, [is responsible for bodily functions involved with relaxation.](https://rightasrain.uwmedicine.org/mind/stress/why-deep-breathing-makes-you-feel-so-chill) These two systems are two sides of the same coin: one is responsible for revving you up, and the other responsible for slowing you down. The two systems can’t be active simultaneously — when one is active, the other is suppressed.
 
@@ -83,11 +81,13 @@ You can use the technique below when you need your body to relax.
 
 - If you’re having difficulty relaxing after being in a state of high arousal, such as an intense workout or a panic attack, use a breath control technique such as [4–7–8 breathing](https://www.healthline.com/health/4-7-8-breathing#How-does-the-4-7-8-breathing-technique-work?). This technique will utilize your parasympathetic nervous system to bring your body into a state of deep relaxation, so it’s great to do before bed or when you’re ready to recharge.
 
-# Final thoughts
+### Final thoughts
 
 Breathing is underrated and should be used, intentionally, a lot more often. It’s a way to regulate the brain and ensure that we keep our intense emotions in check. It’s often used in conjunction with mindfulness exercises, but you don’t have to meditate for hours on end to reap the rewards. Investing 5 mins a day, twice daily, can be very helpful in regulating small anxious triggers and allow yourself to feel more mental and emotional freedom from your lizard brain.
 
 Since breathing is something we don’t typically think about on a day-to-day basis, we neglect to take care of our breath. When you incorporate a breathing practice into your daily routine, you can start noticing positive shifts in different ways.
 
-## references/links?
-* 
+
+> [!INFO] Originally posted on Medium.com
+>
+
