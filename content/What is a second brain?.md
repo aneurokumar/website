@@ -1,7 +1,11 @@
 ---
 public: true
-tags:
 ---
+20241119 @ 1934 | aneurokumar@gmail.com
+up:: [[index.md|Home]]
+tags:: 
+X:: 
+
 ### The Problem:
 I noticed I was losing a lot of valuable knowledge.
 
