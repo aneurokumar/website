@@ -1,4 +1,4 @@
-import { QuartzConfig } from "./quartz/cfg"
+Aimport { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "AnuKumar.md",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
