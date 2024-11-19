@@ -1,8 +1,3 @@
----
-title: <%tp.file.title%>
-draft: false
-tags: []
----
 20241010 @ 1234 | aneurokumar@gmail.com
 up:: 
 tags:: #article #neuroscience #anatomy
