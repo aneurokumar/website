@@ -2,7 +2,7 @@
 public: true
 ---
 20241119 @ 1934 | aneurokumar@gmail.com
-up:: [[index.md|Home]]
+up:: [[index|Home]]
 tags:: 
 X:: 
 
