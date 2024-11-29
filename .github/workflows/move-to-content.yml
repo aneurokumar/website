@@ -23,12 +23,12 @@ jobs:
       - name: Clean up content folder
         run: rm -rf website/content/*
 
-      # Step 4: Move files from website/website to website/content
+      # Step 4: move files from website subfolder to content subfolder
       - name: Move files to website/content
         run: |
           cp -r website/* content/
 
-      # Step 5: Commit and push changes
+      # Step 5: commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "aneurokumar"
@@ -36,3 +36,9 @@ jobs:
           git add . -A website/content/
           git commit -m "Move updated files to content folder" || true
           git push origin v4
+        
+      # Step 6: deploy with quartz 
+      - name: Deploy with Quartz
+        run: |
+          npx quartz sync  # This triggers the Quartz deployment
+
