@@ -40,5 +40,5 @@ jobs:
       # Step 6: deploy with quartz 
       - name: Deploy with Quartz
         run: |
-          npx quartz sync  # This triggers the Quartz deployment
+          npx quartz sync 
 
