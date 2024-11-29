@@ -1,6 +1,7 @@
 ---
 public: true
 title: Second Brain
+tags: 
 ---
 20241119 @ 1934 | aneurokumar@gmail.com  
 up:: [[./index|Home]]  
