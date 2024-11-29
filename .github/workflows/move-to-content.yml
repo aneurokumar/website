@@ -1,25 +1,31 @@
 name: Move Files to Content Folder
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch: # Allows the plugin to trigger this workflow
 
 jobs:
   move-files:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Move files to content folder
-        run: |
-          mkdir -p content
-          mv *.md content/ || true
+      # Step 2: Create content directory if it doesn't exist
+      - name: Ensure content folder exists
+        run: mkdir -p website/content
 
+      # Step 3: Move all Markdown files to content folder
+      - name: Move Markdown files to website/content
+        run: |
+          mv *.md website/content/ || true
+
+      # Step 4: Commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add content/
+          git add website/content/
           git commit -m "Move files to content folder" || true
           git push origin main
