@@ -11,6 +11,4 @@ Here you can browse my professional history, as well as my [[./second-brain|seco
 
 ### Work History
 
-### Projects
 
-### Volunteering
