@@ -1,9 +1,18 @@
 ---
 public: true
+title: 
+tags:
+  - book
+  - status
+  - power
+  - community
+  - neuroscience
+  - psychology
 ---
+
 20240404 @ 2013 | aneurokumar@gmail.com
 up:: 
-tags:: #book
+tags::
 X:: 
 
 ---
