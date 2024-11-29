@@ -1,7 +1,9 @@
 name: Move Files to Content Folder
 
 on:
-  workflow_dispatch: # Allows the plugin to trigger this workflow
+  push:
+    paths:
+      - 'website/website/**' # Trigger only if files in this folder are updated
 
 jobs:
   move-files:
@@ -16,16 +18,20 @@ jobs:
       - name: Ensure content folder exists
         run: mkdir -p website/content
 
-      # Step 3: Move all Markdown files to content folder
-      - name: Move Markdown files to website/content
-        run: |
-          mv *.md website/content/ || true
+      # Step 3: Clean up content folder
+      - name: Clean up content folder
+        run: rm -rf website/content/*
 
-      # Step 4: Commit and push changes
+      # Step 4: Move files from website/website to website/content
+      - name: Move files to website/content
+        run: |
+          cp -r website/website/* website/content/
+
+      # Step 5: Commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add website/content/
-          git commit -m "Move files to content folder" || true
+          git commit -m "Move updated files to content folder" || true
           git push origin main
