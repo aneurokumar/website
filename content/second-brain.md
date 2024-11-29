@@ -3,11 +3,11 @@ public: true
 title: Second Brain
 ---
 20241119 @ 1934 | aneurokumar@gmail.com  
-up:: [[index|Home]]  
+up:: [[./index|Home]]  
 tags::   
 X::   
 
-### The Problem:
+### Intro
 I noticed I was losing a lot of valuable knowledge.
 
 Advancing through my career and projects, I had thousands of notes in research notebooks, journals, and word documents detailing processes, terminology, and valuable experiences. But with every new challenge, I lost time and motivation by reinventing wheels I _had already created,_ like:
@@ -23,4 +23,4 @@ In Spring 2023, I read [Building a Second Brain](https://fortelabs.com/blog/basb
 
 Some of these notes are fleshed out and well developed, others short works-in-progress. Don't be afraid to poke around!
 
-Don't know where to start? Look through my [[Book Notes]].
+Don't know where to start? Look through my [[Book Notes|Book Notes]].
