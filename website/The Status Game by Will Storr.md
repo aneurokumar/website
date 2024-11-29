@@ -10,7 +10,7 @@ tags:
   - psychology
 ---
 
-20240404 @ 2013 | aneurokumar@gmail.com
+created 20240404 @ 2013 | aneurokumar@gmail.com
 up:: 
 tags::
 X:: 
@@ -25,7 +25,3 @@ X::
 - when freedom means expulsion from the meaning you've spent your life making, then freedom is hell
 
 
-## Interesting Quotes
-
-## Emotional tags
-* 
