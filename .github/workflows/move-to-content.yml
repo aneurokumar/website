@@ -3,7 +3,7 @@ name: Move Files to Content Folder
 on:
   push:
     paths:
-      - 'website/website/**' # Trigger only if files in this folder are updated
+      - 'website/**' # Trigger only if files in this folder are updated
   workflow_dispatch:  # Allow manual trigger via GitHub UI
 
 jobs:
