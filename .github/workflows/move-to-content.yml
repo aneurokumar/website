@@ -26,7 +26,7 @@ jobs:
       # Step 4: Move files from website/website to website/content
       - name: Move files to website/content
         run: |
-          cp -r website/website/* website/content/
+          cp -r website/* content/
 
       # Step 5: Commit and push changes
       - name: Commit and push changes
