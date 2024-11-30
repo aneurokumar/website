@@ -6,7 +6,7 @@ tags:
   - "#clarity"
 ---
 20241024 @ 1100 | aneurokumar@gmail.com
-up:: Think Like A Monk by Jay Shetty
+up:: [[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]]
 X:: 
 
 Pay attention to things you wish you could *do* vs things you wish you *had*. 
