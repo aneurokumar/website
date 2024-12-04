@@ -1,6 +1,6 @@
 ---
 public: true
-title: 
+title: 📚 The Status Game by Will Storr
 tags:
   - book
   - status
@@ -8,47 +8,56 @@ tags:
   - community
   - neuroscience
   - psychology
+created: Thursday, 4th April 2024
+last-modified: Wednesday, 4th December 2024
+---
+**Related**:
+
 ---
 # 📚 The Status Game by Will Storr
 ## Chapter Notes
-Chapter two: getting along, getting ahead.  
-– “The people most likely to survive old age where those with solid face-to-face relationships. “  
-– our perceptions of other people become warped.  
-– We desire, a claim, to be a value.  
-– The lower you dropped, the worse, your health and earlier your death.  
-– When researchers conspired to alter the hierarchy, each monkeys, risk of illness changed in lockstep with their changed in status. “It was the new position, not the one they started with, the determine the degree of a thorough sclerosis they developed. “  
-– In the sanctuary of those shadows, our inner monologue can turn on us, becoming hypocritical in a process known as self subordination.  
-– To our brains, status is a resource as real as oxygen or water. When we lose it, we break.  
+### Chapter 2: getting along, getting ahead.  
+
+> [!Summary] 
+> Status can give us a feeling of being valued, and is linked to our physical health. Great face-to-face relationships mean longer and healthier lives. health changes in lockstep with status
+
+- “The people most likely to survive old age where those with solid face-to-face relationships.“  
+- our perceptions of other people become warped.  
+- We desire, a claim, to be a value.  
+- The lower you dropped, the worse, your health and earlier your death.  
+- When researchers conspired to alter the hierarchy, each monkeys, risk of illness changed in lockstep with their changed in status. “It was the new position, not the one they started with, the determine the degree of a thorough sclerosis they developed. “  
+- In the sanctuary of those shadows, our inner monologue can turn on us, becoming hypocritical in a process known as self subordination.  
+- To our brains, status is a resource as real as oxygen or water. When we lose it, we break.  
   
-Chapter 3: and imagine world of symbols.  
-– interpreter module – this perspective of the brain sets up our linkage of simples as status indicators by representing the world as a reward space.  
-– Pothas: gives us clear goals and rewards. Indicators of how well we’re doing in order to get more resources/reproduce. Symbols are easily identifiable sign posts.  
-– Symbols and etiquette around them can be anything. Example: yam size and not being seen looking at peoples yams. Also number of pens on desk.  
-– – A brain as an interpreter module makes it quite obvious that we really have “evolved “at all  
-– moral superiority, concluded, is a “uniquely strong and prevalent form of positive illusion “  
-– – I keep coming back to moral superiority in his books. It also makes sense if is why shame is heavily linked as well.  
-– brains convince us that consciousness is at the center of our being, but that’s also just an evolutionary adaptation.  
-– “The subconscious circuits that generate this hallucinatory story world where “carved by natural selection to solve problems that are ancestors face during our species “evolutionary history“  
-– brains are status detecting systems and are surprisingly accurate, even for symbols we can’t consciously detect, parentheses like hums parentheses, and even present in babies, toddlers and children.  
-– “Mutely by glancing at a still image of them talking, they could tell who is on top “  
-– “when speaking, we admit a low frequency home at around 500 Hz. When people meet and talk, their hum shift. The highest status person in the group sets its level and rest. Adjust to match. “  
-– Status does not equal power, they’re not the same. Thirst for status is questionable, but there for power is not. power can mean power over others.  
-– – Status does not equal power psychologically.  
-– “status is the original form of currency, and the one that matters more. “  
-— -Naturally, we don’t know how good or bad we are doing until we compare with someone else. It feels like all my thoughts about comparison culture now makes sense with this book.  
-– Humans are extraordinarily imaginative creatures who can turn almost anything into status symbols  
-– “in the 1950s, vehicle manufactures succeeded in persuading the US public that very long cars were status game symbol. “  
-– Public display of symbols for perception of shared experience equals kinship. Public social life dependent on these symbols and the display of them.  
-– hyper local games pop up anywhere that people with a broadly agreed set of symbols gather.  
-– – This is very powerful and has a potential to be dangerous.  
+### Chapter 3: an imagined world of symbols.  
+- – interpreter module – this perspective of the brain sets up our linkage of simples as status indicators by representing the world as a reward space.  
+- – Pothas: gives us clear goals and rewards. Indicators of how well we’re doing in order to get more resources/reproduce. Symbols are easily identifiable sign posts.  
+- – Symbols and etiquette around them can be anything. Example: yam size and not being seen looking at peoples yams. Also number of pens on desk.  
+- – – A brain as an interpreter module makes it quite obvious that we really have “evolved “at all  
+- – moral superiority, concluded, is a “uniquely strong and prevalent form of positive illusion “  
+	- – – I keep coming back to moral superiority in his books. It also makes sense if is why shame is heavily linked as well.  
+- – brains convince us that consciousness is at the center of our being, but that’s also just an evolutionary adaptation.  
+- – “The subconscious circuits that generate this hallucinatory story world where “carved by natural selection to solve problems that are ancestors face during our species “evolutionary history“  
+- – brains are status detecting systems and are surprisingly accurate, even for symbols we can’t consciously detect, parentheses like hums parentheses, and even present in babies, toddlers and children.  
+- – “Mutely by glancing at a still image of them talking, they could tell who is on top “  
+- – “when speaking, we admit a low frequency home at around 500 Hz. When people meet and talk, their hum shift. The highest status person in the group sets its level and rest. Adjust to match. “  
+- – Status does not equal power, they’re not the same. Thirst for status is questionable, but there for power is not. power can mean power over others.  
+	- – – Status does not equal power psychologically.  
+- – “status is the original form of currency, and the one that matters more. “  
+	- — -Naturally, we don’t know how good or bad we are doing until we compare with someone else. It feels like all my thoughts about comparison culture now makes sense with this book.  
+- – Humans are extraordinarily imaginative creatures who can turn almost anything into status symbols  
+- – “in the 1950s, vehicle manufactures succeeded in persuading the US public that very long cars were status game symbol. “  
+- – Public display of symbols for perception of shared experience equals kinship. Public social life dependent on these symbols and the display of them.  
+- – hyper local games pop up anywhere that people with a broadly agreed set of symbols gather.  
+	- – – This is very powerful and has a potential to be dangerous.  
   
-Chapter 4: an imagined world of rules.  
+### Chapter 4: an imagined world of rules.  
 – symbols, fuel games, games, give symbols meeting. Games created to promote pro social or pro group behavior, which are rewarded by status and better living conditions.  
 – common games/rules include: helping family/group, return favors, be brave, defer to superiors, divide resources, fairly, and respect others property.  
 Change across space time: Asia centric versus West. Sea culture map book.  
 – You can’t opt out of the game, only by isolation. HIKIKOMORI.  
   
-Chapter 5: the three games.  
+### Chapter 5: the three games.  
 – there are three types of game: dominance, virtue, and success  
 – games are never pure – there are only blends of the three different factors.  
 – evolutionary shift from living in close environments: dominance base game to reputation based game.  
@@ -60,8 +69,8 @@ Chapter 5: the three games.
 – three aspects to games: dominance, virtue, success. Games often have a mixed ratio. Each aspect requires certain rules/behaviors and results in different rewards. Requires three different archetypes also ratio in people.  
 – moved from primarily dominant games to social living environments moved closer to other families and clans, emerging and multigenerational families who passed down symbols/rules, called “nested life “  
   
-Chapter 6: prestige games.  
-– copying behavior, even maniacally, is a sign of prestige to the person being copied. Instead of admiration, it’s because the copier wants to become like the high status individual being copied.  
+### Chapter 6: prestige games.  
+– copying behavior, even maniacally, is a sign of prestige to the person being copied. Instead of admiration, it’s because the copier wants to become like the high status individual being copied. 
 – different queues can trigger this focus: self similarity, skill, success, prestige. These are designed for small groups, not extremely large ones like global social media.  
 – The Paris Hilton effect: millions of people pay attention to one person because so many people are already paying attention to them ,  
 – – bullying relation?  
@@ -74,14 +83,14 @@ Chapter 6: prestige games.
 – Prestige programs can work to nudge or let go of behavior, but only when the player is already of high importance and influence. Example: decline of shark fin fishing in China.  
 – influence is the ability to drive and achieve change in a group. In dominance games, it manifest as power, and willingly offered by players in prestige games. We take it highly personal when our suggestions/influence attempts fail – which can trigger hurt or vengeful reactions. At this turning point, the player might try to grab status by dominance.  
   
-Chapter 7: dominance games.  
+### Chapter 7: dominance games.  
 – dominance was the first status system to develop in humans neurologically, and sits below the prestige systems that recently developed in our evolution. Second self is a phrase used to describe the dominance related system.  
 – we are prone to following leaders with dominance, heavy persona versus prestige, even though the results are worse with dominance personas. For example we are more likely to pick very dominant persona during times of war or whenever the status of our game is under threat, and pick leaders with more prestige systems during times of peace.  
 – – is it because they reassure us? Give us certainty?  
 – Big difference between dominance versus prestige: status not given to second Self players, it’s taken by force.  
 – if status hierarchy is unclear, tendency reverts to second self, as in dominance  
   
-Apter eight: male, grandiose, humiliated: the games most lethal.  
+### Chapter 8: male, grandiose, humiliated: the games most lethal.  
 – male grandiose, and humiliated are the three aspects that can up and the status game. Men are more likely to commit egregiously violent actions if they show signs of intense status seeking behavior and have been humiliated. Other genders share this to, to a less documented degree
 
 ## Big Ideas
