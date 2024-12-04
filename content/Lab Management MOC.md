@@ -1,4 +1,6 @@
 ---
+created: Thursday, 17th August 2023
+last-modified: Monday, 2nd December 2024
 public: true
 title: 
 tags:
@@ -22,8 +24,8 @@ Lab Management is a huge part of my identity and career, and is a unique blend o
 
 
 # Management
-- Navigating change management in labs
 - types of life science core facilities
+- Navigating change management in labs
 - cycle inventory + inventory types
 - Small Lab Process hacks
 - Kaptitude Chemical Module
@@ -31,9 +33,9 @@ Lab Management is a huge part of my identity and career, and is a unique blend o
 - [[Lab Management MOC|Lab Management MOC]]
 
 # Safety
+- Liquid Nitrogen Procedure
 - Fume Hood Training Notes
 - [[Lab Management MOC|Lab Management MOC]]
-- Liquid Nitrogen Procedure
 
 
 

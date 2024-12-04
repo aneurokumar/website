@@ -2,8 +2,15 @@
 public: true
 title: Second Brain
 tags: 
+created: Monday, 2nd December 2024
+last-modified: Tuesday, 3rd December 2024
 ---
 **Related:** [[./index|Home]]
+
+| Articles | Books | **[[./+ About MOCS\|All MOCS]]** |
+| -------- | ----- | ------------------------------ |
+
+
 ### Intro
 I noticed I was losing a lot of valuable knowledge.
 
