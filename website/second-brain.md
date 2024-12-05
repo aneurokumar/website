@@ -3,15 +3,12 @@ public: true
 title: Second Brain
 tags: 
 created: Monday, 2nd December 2024
-last-modified: Tuesday, 3rd December 2024
+last-modified: Wednesday, 4th December 2024
 ---
 **Related:** [[./index|Home]]
 
 | Articles | Books | **[[./+ About MOCS\|All MOCS]]** |
 | -------- | ----- | ------------------------------ |
-
-
-### Intro
 I noticed I was losing a lot of valuable knowledge.
 
 Advancing through my career and projects, I had thousands of notes in research notebooks, journals, and word documents detailing processes, terminology, and valuable experiences. But with every new challenge, I lost time and motivation by reinventing wheels I _had already created,_ like:
@@ -27,6 +24,4 @@ In Spring 2023, I read [Building a Second Brain](https://fortelabs.com/blog/basb
 
 Some of these notes are fleshed out and well developed, others short works-in-progress. Don't be afraid to poke around!
 
-Don't know where to start? Look through my [[Book Notes|Book Notes]].
-
-created on 20241119 @ 1934
+Don't know where to start? Look through my book-notes-home.
