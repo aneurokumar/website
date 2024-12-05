@@ -15,6 +15,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+     #compatible node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Specify a compatible Node.js version
+          cache: 'npm'
+      #node dependencies just in case
+      - name: Install dependencies
+        run: npm install
+
       # Step 2: Create content directory if it doesn't exist
       - name: Ensure content folder exists
         run: mkdir -p website/content
