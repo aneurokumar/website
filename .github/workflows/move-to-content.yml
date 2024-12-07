@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -25,20 +25,27 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # Step 2: Create content directory if it doesn't exist
+      # Create content directory if it doesn't exist
       - name: Ensure content folder exists
         run: mkdir -p website/content
 
-      # Step 3: Clean up content folder
+      # Clean up content folder
       - name: Clean up content folder
         run: rm -rf website/content/*
-
-      # Step 4: move files from website subfolder to content subfolder
+      #reorganize Explorer with folders
+      - name: reorganize Explorer
+        run: |
+          mkdir -p content/Articles content/"Book Notes" content/"Second Brain"
+	        grep -l '#article' content/*.md | xargs -I{} mv "{}" content/Articles/
+          grep -l '#book' content/*.md | xargs -I{} mv "{}" content/"Book Notes"/
+	        find content -maxdepth 1 -type f -name '*.md' ! -name 'cv-portfolio.md' -exec mv {} content/"Second Brain"/ \;
+	        mv content/cv-portfolio.md content/
+      # move files from website subfolder to content subfolder
       - name: Move files to website/content
         run: |
           cp -r website/* content/
 
-      # Step 5: commit and push changes
+      # commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "aneurokumar"
@@ -47,7 +54,7 @@ jobs:
           git commit -m "Move updated files to content folder" || true
           git push origin v4
         
-      # Step 6: deploy with quartz 
+      # deploy with quartz 
       - name: Deploy with Quartz
         run: |
           npx quartz sync 
