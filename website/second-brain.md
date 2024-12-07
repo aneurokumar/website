@@ -2,8 +2,8 @@
 public: true
 title: Second Brain
 tags: 
-created: Monday, 2nd December 2024
-last-modified: Wednesday, 4th December 2024
+created: 02-12-2024
+last-modified: 07-12-2024
 ---
 **Related:** [[./index|Home]]
 
@@ -24,4 +24,4 @@ In Spring 2023, I read [Building a Second Brain](https://fortelabs.com/blog/basb
 
 Some of these notes are fleshed out and well developed, others short works-in-progress. Don't be afraid to poke around!
 
-Don't know where to start? Look through my book-notes-home.
+Don't know where to start? Look through my [[./book-notes-home|Book Notes]].
