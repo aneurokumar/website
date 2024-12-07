@@ -41,17 +41,7 @@ jobs:
 
       # check list of files
       - name: Check contents of content/
-        run: ls -l content/
-
-      # Reorganize Explorer with folders
-      - name: Reorganize Explorer
-        run: |
-          mkdir website/content/Articles
-          mkdir website/content/BookNotes
-          mkdir website/content/SecondBrain
-          cd website/content/
-          mv second-brain.md website/content/Articles
-          mv find-unix-command.md website/content/SecondBrain          
+        run: ls -l content/        
 
       # Commit and push changes
       - name: Commit and push changes
