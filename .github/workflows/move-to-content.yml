@@ -37,7 +37,7 @@ jobs:
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
         run: |
-          cp -r website/* content/
+          cp -r website/* website/content/
 
       # check list of files
       - name: Check contents of website/content
