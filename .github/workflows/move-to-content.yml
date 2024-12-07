@@ -40,6 +40,9 @@ jobs:
           mkdir -p website/content/Articles
           mkdir -p website/content/BookNotes
           mkdir -p website/content/SecondBrain
+          touch website/content/Articles .gitkeep
+          touch website/content/BookNotes .gitkeep
+          touch website/content/SecondBrain .gitkeep
 
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
