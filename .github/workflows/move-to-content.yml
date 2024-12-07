@@ -48,6 +48,9 @@ jobs:
         run: |
           git config user.name "aneurokumar"
           git config user.email "aneurokumar@gmail.com"
+          git fetch origin v4
+          git checkout v4
+          git merge origin/v4 --no-edit
           git add . -A website/content/
           git commit -m "Move updated files to content folder" || true
           git push origin v4
