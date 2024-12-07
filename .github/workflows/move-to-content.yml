@@ -40,6 +40,7 @@ jobs:
           mkdir website/content/Articles
           mkdir website/content/BookNotes
           mkdir website/content/SecondBrain
+          cd website/content
           mv second-brain.md website/content/Articles
           mv find-unix-command.md website/content/SecondBrain
 
