@@ -35,9 +35,9 @@ jobs:
       #reorganize Explorer with folders
       - name: reorganize Explorer
         run: |
-          mkdir -p website/content/Articles
-	  mkdir -p website/content/BookNotes
-          mkdir -p website/content/SecondBrain
+	  mkdir -p website/content/Articles
+          mkdir -p website/content/BookNotes
+	  mkdir -p website/content/SecondBrain
 	  
       # move files from website subfolder to content subfolder
       - name: Move files to website/content
