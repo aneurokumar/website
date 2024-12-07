@@ -15,13 +15,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-     #compatible node.js
+      # Compatible Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'  # Specify a compatible Node.js version
           cache: 'npm'
-      #node dependencies just in case
+
+      # Install Node.js dependencies (optional)
       - name: Install dependencies
         run: npm install
 
@@ -32,19 +33,20 @@ jobs:
       # Clean up content folder
       - name: Clean up content folder
         run: rm -rf website/content/*
-      #reorganize Explorer with folders
-      - name: reorganize Explorer
+
+      # Reorganize Explorer with folders
+      - name: Reorganize Explorer
         run: |
-	  mkdir -p website/content/Articles
+          mkdir -p website/content/Articles
           mkdir -p website/content/BookNotes
-	  mkdir -p website/content/SecondBrain
-	  
-      # move files from website subfolder to content subfolder
+          mkdir -p website/content/SecondBrain
+
+      # Move files from website subfolder to content subfolder
       - name: Move files to website/content
         run: |
           cp -r website/* content/
 
-      # commit and push changes
+      # Commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "aneurokumar"
@@ -53,8 +55,7 @@ jobs:
           git commit -m "Move updated files to content folder" || true
           git push origin v4
         
-      # deploy with quartz 
+      # Deploy with Quartz
       - name: Deploy with Quartz
         run: |
-          npx quartz sync 
-
+          npx quartz sync
