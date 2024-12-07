@@ -39,13 +39,17 @@ jobs:
         run: |
           cp -r website/* content/
 
+      # check list of files
+      - name: Check contents of website/content
+        run: ls -l website/content/
+
       # Reorganize Explorer with folders
       - name: Reorganize Explorer
         run: |
           mkdir website/content/Articles
           mkdir website/content/BookNotes
           mkdir website/content/SecondBrain
-          cd website/content
+          cd website/content/
           mv second-brain.md website/content/Articles
           mv find-unix-command.md website/content/SecondBrain          
 
