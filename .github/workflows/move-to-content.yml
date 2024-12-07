@@ -34,6 +34,11 @@ jobs:
       - name: Clean up content folder
         run: rm -rf website/content/*
 
+      # Move files from website subfolder to content subfolder
+      - name: Move files to website/content
+        run: |
+          cp -r website/* content/
+
       # Reorganize Explorer with folders
       - name: Reorganize Explorer
         run: |
@@ -42,12 +47,7 @@ jobs:
           mkdir website/content/SecondBrain
           cd website/content
           mv second-brain.md website/content/Articles
-          mv find-unix-command.md website/content/SecondBrain
-
-      # Move files from website subfolder to content subfolder
-      - name: Move files to website/content
-        run: |
-          cp -r website/* content/
+          mv find-unix-command.md website/content/SecondBrain          
 
       # Commit and push changes
       - name: Commit and push changes
