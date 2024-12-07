@@ -35,11 +35,10 @@ jobs:
       #reorganize Explorer with folders
       - name: reorganize Explorer
         run: |
-          mkdir -p content/Articles content/"Book Notes" content/"Second Brain"
-	  grep -l '#article' content/*.md | xargs -I{} mv "{}" content/Articles/
-          grep -l '#book' content/*.md | xargs -I{} mv "{}" content/"Book Notes"/
-	  find content -maxdepth 1 -type f -name '*.md' ! -name 'cv-portfolio.md' -exec mv {} content/"Second Brain"/ \;
-          mv content/cv-portfolio.md content/
+          mkdir -p website/content/Articles
+	  mkdir -p website/content/BookNotes
+          mkdir -p website/content/SecondBrain
+	  
       # move files from website subfolder to content subfolder
       - name: Move files to website/content
         run: |
