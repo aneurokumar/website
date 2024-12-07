@@ -37,11 +37,11 @@ jobs:
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
         run: |
-          cp -r website/* website/content/
+          cp -r website/* content/
 
       # check list of files
-      - name: Check contents of website/content
-        run: ls -l website/content/
+      - name: Check contents of content/
+        run: ls -l content/
 
       # Reorganize Explorer with folders
       - name: Reorganize Explorer
