@@ -27,16 +27,17 @@ jobs:
         run: npm install
 
       # Create content directory if it doesn't exist
-      - name: Ensure content folders exists
+      - name: Verify content folder exists and clean it up
         run: |
           mkdir -p website/content
+          rm -rf website/content/*
+
+      # Verify Article, Book Notes, and Second Brain folders exist
+      - name: Verify Explorer files exist
+        run: |
           mkdir -p website/content/Articles
           mkdir -p website/content/BookNotes
           mkdir -p website/content/SecondBrain
-
-      # Clean up content folder
-      - name: Clean up content folder
-        run: rm -rf website/content/*
 
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
