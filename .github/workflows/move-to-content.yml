@@ -37,12 +37,11 @@ jobs:
       # Reorganize Explorer with folders
       - name: Reorganize Explorer
         run: |
-          mkdir -p website/content/Articles
-          mkdir -p website/content/BookNotes
-          mkdir -p website/content/SecondBrain
-          touch website/content/Articles .gitkeep
-          touch website/content/BookNotes .gitkeep
-          touch website/content/SecondBrain .gitkeep
+          mkdir website/content/Articles
+          mkdir website/content/BookNotes
+          mkdir website/content/SecondBrain
+          mv second-brain.md website/content/Articles
+          mv find-unix-command.md website/content/SecondBrain
 
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
