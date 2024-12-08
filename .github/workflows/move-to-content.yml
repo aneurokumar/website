@@ -35,9 +35,9 @@ jobs:
       # Verify Article, Book Notes, and Second Brain folders exist
       - name: Verify Explorer files exist
         run: |
-          mkdir website/content/Articles
-          mkdir website/content/BookNotes
-          mkdir website/content/SecondBrain
+          mkdir -p website/content/Articles
+          mkdir -p website/content/BookNotes
+          mkdir -p website/content/SecondBrain
 
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
