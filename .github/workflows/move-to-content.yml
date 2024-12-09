@@ -30,7 +30,7 @@ jobs:
       - name: Verify content folder exists and clean it up
         run: |
           mkdir -p website/content
-          rm -rf website/content/*
+          find website/content -type f -delete ! -name index.md
 
       # Verify Article, Book Notes, and Second Brain folders exist
       - name: Verify Explorer files exist
