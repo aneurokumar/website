@@ -1,15 +1,14 @@
 ---
 public: true
 title: Navigating change management in labs
-linked-notes: 
 tags:
   - career
   - note/atomize
   - management
   - labmanagement
   - change
-created: Monday, 4th September 2023
-last-modified: Friday, 6th December 2024
+created: 04-09-2023
+last-modified: 09-12-2024
 ---
 **Related**: [[./Lab Management MOC|Lab Management MOC]], [[./Leadership & Management MOC|Leadership & Management MOC]]
 
