@@ -38,12 +38,9 @@ jobs:
           mkdir -p website/content/Articles
           mkdir -p website/content/Book\Notes
           mkdir -p website/content/Second\Brain
-          cd content/Articles
-          find . -type f ! -name index.md -exec rm {}\;
-          cd ../BookNotes
-          find . -type f ! -name index.md -exec rm {}\;
-          cd ../SecondBrain -type f ! -name index.md -exec rm {}\;
-          cd ..
+          find content/Articles -type f ! -name "index.md" -exec rm {}\;
+          find content/Book\Notes -type f ! -name "index.md" -exec rm {}\;
+          find content/Second\Brain -type f ! -name "index.md" -exec rm {}\;
 
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
