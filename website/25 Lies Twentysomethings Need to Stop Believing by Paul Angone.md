@@ -1,10 +1,10 @@
 ---
-last-modified: Wednesday, 4th December 2024
 public: true
-title: 
+title: 📚 25 Lies Twentysomethings Need to Stop Believing by Paul Angone
 tags:
   - book
-created: Friday, 11th October 2024
+created: 11-10-2024
+last-modified: 09-12-2024
 ---
 
 20241011 @ 2333 | aneurokumar@gmail.com

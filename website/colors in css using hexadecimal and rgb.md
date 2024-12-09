@@ -1,11 +1,13 @@
 ---
 public: true
 title: 
-tags: 
-created: Thursday, 5th December 2024
-last-modified: Thursday, 5th December 2024
+tags:
+  - css
+  - html
+created: 05-12-2024
+last-modified: 07-12-2024
 ---
-**Related:** Obsidian MOC
+**Related:** [[./Programming MOC|Programming MOC]]
 
 ---
 

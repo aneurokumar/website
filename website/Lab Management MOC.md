@@ -1,12 +1,12 @@
 ---
-created: Thursday, 17th August 2023
-last-modified: Monday, 2nd December 2024
 public: true
 title: 
 tags:
   - "#management"
   - "#labmanagement"
   - labsafety
+created: 17-08-2023
+last-modified: 09-12-2024
 ---
 **Related**: Career Development & Business MOC
 
@@ -25,12 +25,13 @@ Lab Management is a huge part of my identity and career, and is a unique blend o
 
 # Management
 - types of life science core facilities
-- Navigating change management in labs
 - cycle inventory + inventory types
 - Small Lab Process hacks
 - Kaptitude Chemical Module
+- SOP organization for labs
 - Biolabs - Lab Ops Associate
 - [[Lab Management MOC|Lab Management MOC]]
+- [[./navigating-change-management-in-labs|navigating-change-management-in-labs]]
 
 # Safety
 - Liquid Nitrogen Procedure
