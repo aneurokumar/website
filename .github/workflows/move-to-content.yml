@@ -30,12 +30,7 @@ jobs:
       - name: Verify content folder exists and clean it up
         run: |
           mkdir -p website/content
-          cd website/content/Articles
-          find . -type f ! -name index.md -exec rm {}\;
-          cd ../BookNotes
-          find . -type f ! -name index.md -exec rm {}\;
-          cd ../SecondBrain -type f ! -name index.md -exec rm {}\;
-          cd ..
+          ls -l content
 
       # Verify Article, Book Notes, and Second Brain folders exist
       - name: Verify Explorer files exist
