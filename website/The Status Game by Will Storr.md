@@ -1,6 +1,6 @@
 ---
 public: true
-title: 📚 The Status Game by Will Storr
+title: The Status Game by Will Storr
 tags:
   - book
   - status
@@ -8,10 +8,10 @@ tags:
   - community
   - neuroscience
   - psychology
-created: Thursday, 4th April 2024
-last-modified: Wednesday, 4th December 2024
+created: 04-04-2024
+last-modified: 09-12-2024
 ---
-**Related**:
+**Related**: The 48 Laws of Power by Robert Greene
 
 ---
 # 📚 The Status Game by Will Storr
@@ -31,7 +31,7 @@ last-modified: Wednesday, 4th December 2024
   
 ### Chapter 3: an imagined world of symbols.  
 - – interpreter module – this perspective of the brain sets up our linkage of simples as status indicators by representing the world as a reward space.  
-- – Pothas: gives us clear goals and rewards. Indicators of how well we’re doing in order to get more resources/reproduce. Symbols are easily identifiable sign posts.  
+- – hypothesis: gives us clear goals and rewards. Indicators of how well we’re doing in order to get more resources/reproduce. Symbols are easily identifiable sign posts.  
 - – Symbols and etiquette around them can be anything. Example: yam size and not being seen looking at peoples yams. Also number of pens on desk.  
 - – – A brain as an interpreter module makes it quite obvious that we really have “evolved “at all  
 - – moral superiority, concluded, is a “uniquely strong and prevalent form of positive illusion “  
@@ -98,5 +98,6 @@ Change across space time: Asia centric versus West. Sea culture map book.
 - solid face-to-face relationships is the key to surviving and thriving in old age
 - we desire worth, acclaim, and to be of value
 - when freedom means expulsion from the meaning you've spent your life making, then freedom is hell
+- [[./book-notes-home|book-notes-home]]
 
 
