@@ -36,11 +36,11 @@ jobs:
       - name: Verify Explorer files exist
         run: |
           mkdir -p website/content/Articles
-          mkdir -p website/content/Book\Notes
-          mkdir -p website/content/Second\Brain
+          mkdir -p website/content/"Book Notes"
+          mkdir -p website/content/"Second Brain"
           find content/Articles -type f ! -name "index.md" -exec rm {} \;
-          find content/Book\Notes -type f ! -name "index.md" -exec rm {} \;
-          find content/Second\Brain -type f ! -name "index.md" -exec rm {} \;
+          find content/"Book Notes" -type f ! -name "index.md" -exec rm {} \;
+          find content/"Second Brain" -type f ! -name "index.md" -exec rm {} \;
 
       # Move files from website subfolder to content subfolder
       - name: Move files to website/content
