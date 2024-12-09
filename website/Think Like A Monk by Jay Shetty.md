@@ -1,18 +1,15 @@
 ---
 public: true
-title: 📚 Think Like a Monk by Jay Shetty
+title: Think Like a Monk by Jay Shetty
 tags:
   - book
   - southasianauthor
   - realselfhelp
   - mindfulness
-created: Wednesday, 26th October 2022
-last-modified: Wednesday, 4th December 2024
+created: 26-10-2022
+last-modified: 09-12-2024
 ---
-**Related:**
-
-up::
-X:: 
+**Related:** The Psychology of Money
 
 ---
 # 📚 Think Like a Monk by Jay Shetty
@@ -26,5 +23,6 @@ X::
 - [[./Wanting the outcome vs. wanting the experience|Wanting the outcome vs. wanting the experience]]
 - self esteem and ego aren't the same thing
 - there's not one correct process for writing, or even a specific kind of style for each author. It's more important to have a variety of tools in your toolbox
+- [[./book-notes-home|book-notes-home]]
 
 Created on 20221026 @ 1920
