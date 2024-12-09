@@ -3,8 +3,8 @@ public: true
 title: Articles
 linked-notes: 
 tags: 
-created: Tuesday, 19th November 2024
-last-modified: Tuesday, 3rd December 2024
+created: 09-12-2024
+last-modified: 09-12-2024
 aliases:
   - Articles Homepage
 ---
