@@ -46,7 +46,9 @@ jobs:
       - name: Move files to website/content
         run: |
           cp -r website/* content/
+          grep -rlP '(?s)^---.*?tag:\s*.*\bbook\b.*?---' . | xargs -I {} mv {} "content/Book Notes/"
 
+          
       # check list of files
       - name: Check contents of content/
         run: ls -l content/        
