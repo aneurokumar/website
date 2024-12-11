@@ -5,12 +5,10 @@ linked-notes:
 tags: 
 created: 09-12-2024
 last-modified: 09-12-2024
-aliases:
-  - Articles Homepage
 ---
-"Teaching is about taking things apart; writing is about putting things together." - Toni Morrison
+"Teaching is about taking things apart; writing is about putting things together." - [Toni Morrison](https://en.wikipedia.org/wiki/Toni_Morrison)
 
-All my articles, published in different places or exclusively on my website.
+All my articles, ranging from science communication, book analysis, and cultural pieces, published in different places or exclusively on my website.
 
 
 
