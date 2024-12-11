@@ -5,8 +5,7 @@ linked-notes:
 tags: 
 created: 19-11-2024
 last-modified: 11-12-2024
-aliases:
-  - Quartz Homepage
+
 ---
 “Don’t let anyone rob you of your imagination, your creativity, or your curiosity." - [Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison)
 
