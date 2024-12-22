@@ -2,37 +2,43 @@
 
 process_file() {
     local file="$1"
-    local base_dir="website/content"
     
     # Skip non-markdown files and index files
     if [[ ! "$file" =~ \.md$ ]] || [[ "$(basename "$file")" == "index.md" ]]; then
         return
     fi
     
-    # Read the YAML front matter and check tags
-    if grep -qP '(?s)^---.*?tag:\s*.*\bbook\b.*?---' "$file"; then
-        destination="${base_dir}/Book Notes/$(basename "$file")"
-        echo "Moving $(basename "$file") to Book Notes"
-    elif grep -qP '(?s)^---.*?tag:\s*.*\barticle\b.*?---' "$file"; then
-        destination="${base_dir}/Articles/$(basename "$file")"
+    # Extract the YAML front matter
+    yaml_content=$(sed -n "/^---$/,/^---$/p" "$file")
+    
+    # Debug: Show YAML content being processed
+    echo "Processing file: $file"
+    echo "YAML content:"
+    echo "$yaml_content"
+    
+    if echo "$yaml_content" | grep -q "^[[:space:]]*- book$"; then
+        echo "Found book tag in $file"
+        cp "$file" "content/Book Notes/$(basename "$file")"
+        echo "Moved $(basename "$file") to Book Notes"
+    elif echo "$yaml_content" | grep -q "^[[:space:]]*- article$"; then
+        echo "Found article tag in $file"
+        cp "$file" "content/Articles/$(basename "$file")"
         echo "Moving $(basename "$file") to Articles"
     else
-        destination="${base_dir}/Second Brain/$(basename "$file")"
+        echo "No matching tags, moving to Second Brain"
+        cp "$file" "content/Second Brain/$(basename "$file")"
         echo "Moving $(basename "$file") to Second Brain"
     fi
-    
-    # Move the file
-    cp "$file" "$destination"
 }
 
-# Process all markdown files
+# Process all markdown files from the website directory
 find website -type f -name "*.md" | while read -r file; do
     process_file "$file"
 done
 
 # Print summary
 echo "=== Organization Summary ==="
-echo "Articles: $(find website/content/Articles -type f ! -name "index.md" | wc -l) files"
-echo "Book Notes: $(find website/content/Book Notes -type f ! -name "index.md" | wc -l) files"
-echo "Second Brain: $(find website/content/Second Brain -type f ! -name "index.md" | wc -l) files"
+echo "Articles: $(find content/Articles -type f ! -name "index.md" | wc -l) files"
+echo "Book Notes: $(find content/Book Notes -type f ! -name "index.md" | wc -l) files"
+echo "Second Brain: $(find content/Second Brain -type f ! -name "index.md" | wc -l) files"
 
