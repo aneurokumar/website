@@ -1,0 +1,110 @@
+          #!/bin/bash
+          
+          process_file() {
+              local file="$1"
+              local base_dir="website/content"
+              
+              # Skip non-markdown files and index files
+              if [[ ! "$file" =~ \.md$ ]] || [[ "$(basename "$file")" == "index.md" ]]; then
+                  return
+              }
+              
+              # Read the YAML front matter and check tags
+              if grep -qP '(?s)^---.*?tag:\s*.*\bbook\b.*?---' "$file"; then
+                  destination="${base_dir}/Book Notes/$(basename "$file")"
+              elif grep -qP '(?s)^---.*?tag:\s*.*\barticle\b.*?---' "$file"; then
+                  destination="${base_dir}/Articles/$(basename "$file")"
+              else
+                  destination="${base_dir}/Second Brain/$(basename "$file")"
+              fi
+              
+              # Move the file
+              cp "$file" "$destination"
+              echo "Moved $(basename "$file") to $(dirname "$destination")"
+          }
+          
+          # Process all markdown files in website directory
+          find website -type f -name "*.md" | while read -r file; do
+              process_file "$file"
+          done
+          
+          # Print summary
+          echo "=== Organization Summary ==="
+          echo "Articles: $(find website/content/Articles -type f ! -name "index.md" | wc -l) files"
+          echo "Book Notes: $(find website/content/Book Notes -type f ! -name "index.md" | wc -l) files"
+          echo "Second Brain: $(find website/content/Second Brain -type f ! -name "index.md" | wc -l) files"
+          EOF
+          
+          chmod +x organize-notes.sh
+
+      - name: Move and organize files
+        run: |
+          # Copy all files from website to content first
+          cp -r website/* content/
+          
+          # Run the organization script
+          ./organize-notes.sh
+          
+          # List contents for verification
+          echo "=== Content Directory Structure ==="
+          tree website/content
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "aneurokumar"
+          git config user.email "aneurokumar@gmail.com"
+          git fetch origin v4
+          git checkout v4
+          git merge origin/v4 --no-edit
+          git add -A website/content/
+          git commit -m "Move and organize content files" || true
+          git push origin v4
+
+      - name: Deploy with Quartz
+        run: npx quartz sync# Function to check YAML front matter for tags
+
+check_yaml_tags() {
+    local file="$1"
+    local tag="$2"
+    awk -v tag="$tag" '
+        BEGIN { in_yaml=0; found=0 }
+        /^---/ { 
+            if (in_yaml) {
+                in_yaml=0
+            } else {
+                in_yaml=1
+            }
+            next
+        }
+        in_yaml && tolower($0) ~ /tags?:/ {
+            rest = tolower(substr($0, index($0,":")+1))
+            if (rest ~ tag) {
+                found=1
+                exit
+            }
+        }
+        END { exit !found }
+    ' "$file"
+}
+
+# Process all markdown files
+find . -type f -name "*.md" | while read -r file; do
+    # Skip files that are already in content directories
+    if [[ "$file" == *"/content/"* ]]; then
+        continue
+    fi
+
+    # Determine destination based on tags
+    if check_yaml_tags "$file" "book"; then
+        destination="content/Book Notes/$(basename "$file")"
+    elif check_yaml_tags "$file" "article"; then
+        destination="content/Articles/$(basename "$file")"
+    else
+        destination="content/Second Brain/$(basename "$file")"
+    fi
+
+    # Move the file, creating directories if needed
+    echo "Moving $file to $destination"
+    mv "$file" "$destination"
+
+done
