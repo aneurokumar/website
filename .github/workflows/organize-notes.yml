@@ -23,10 +23,10 @@ jobs:
         
       - name: Setup content structure
         run: |
-          mkdir -p website/content/{Articles,"Book Notes","Second Brain"}
-          find website/content/Articles -type f ! -name "index.md" -delete || true
-          find website/content/"Book Notes" -type f ! -name "index.md" -delete || true
-          find website/content/"Second Brain" -type f ! -name "index.md" -delete || true
+          mkdir -p website/{Articles,"Book Notes","Second Brain"}
+          find website/Articles -type f ! -name "index.md" -delete || true
+          find website/"Book Notes" -type f ! -name "index.md" -delete || true
+          find website/"Second Brain" -type f ! -name "index.md" -delete || true
 
       - name: Create and run organization script
         run: |
