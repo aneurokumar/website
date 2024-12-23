@@ -20,6 +20,16 @@ jobs:
           
       - name: Install dependencies
         run: npm install
+
+      - name: Setup git
+        run: |
+          git config user.name "aneurokumar"
+          git config user.email "aneurokumar@gmail.com"
+          git fetch origin v4
+          git checkout v4
+          git add content/
+          git stash
+          git pull origin v4
         
       - name: Setup content structure
         run: |
@@ -72,11 +82,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "aneurokumar"
-          git config user.email "aneurokumar@gmail.com"
-          git fetch origin v4
-          git checkout v4
-          git merge origin/v4 --no-edit
           git add -A content/
           git commit -m "Move and organize content files" || true
           git push origin v4
