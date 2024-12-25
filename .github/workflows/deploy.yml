@@ -1,7 +1,11 @@
 name: Deploy Quartz site to GitHub Pages
  
 on:
-  push:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Move and Organize Notes"]
+    types:
+      - completed
     branches:
       - v4
  
