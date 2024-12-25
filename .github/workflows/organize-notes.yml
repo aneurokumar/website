@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
         
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -25,7 +27,7 @@ jobs:
         run: |
           git config user.name "aneurokumar"
           git config user.email "aneurokumar@gmail.com"
-          git fetch origin v4
+          git fetch --all
           git checkout v4
           git add content/
           git stash
@@ -83,8 +85,14 @@ jobs:
       - name: Commit and push changes
         run: |
           git add -A content/
-          git commit -m "Move and organize content files" || true
-          git push origin v4
+          git status
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Move and organize content files" || true
+            git pull --rebase origin v4
+            git push origin v4
+          fi
 
       - name: Deploy with Quartz
         run: npx quartz sync
