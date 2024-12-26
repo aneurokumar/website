@@ -11,7 +11,7 @@ last-modified: 25-12-2024
 **Related**: Psychlogy MOC
 
 ---
-The ability and interest to understand the causes of others' behaviors, and considering multiple different (possible) causes
+CHANGED VERSION: The ability and interest to understand the causes of others' behaviors, and considering multiple different (possible) causes
 
 **Paper definition**
 Attributional complexity is a psychological construct that describes the degree to which an individual is interested in understanding the causes of other’s behavior and considers many different possible causes 
