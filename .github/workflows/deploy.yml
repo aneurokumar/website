@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Move and Organize Notes"]
+    workflows: ["Move and Organize Content"]
     types:
       - completed
     branches:
