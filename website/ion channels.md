@@ -5,16 +5,11 @@ tags:
   - molbio
   - protein
 created: 21-12-2024
-last-modified: 24-12-2024
+last-modified: 30-12-2024
 ---
 **Related:** [[./Biological Science MOC|Biological Science MOC]]
 
 ---
-
-> **Summary**
-> summary
-
-
 Ion channels are trans-membrane proteins present in the lipid bilayer of cells. They form "pores" which let ions move through it into and out of the cell, which can serve different purposes. Ion channels are involved a lot in neurons/nervous system (resting membrane potential, action potential), electrical signals via gating of ions across the cell membrane.
 
 Ion channels are [integral membrane proteins](https://en.wikipedia.org/wiki/Integral_membrane_protein "Integral membrane protein"), typically formed as assemblies of several individual proteins.
@@ -26,6 +21,9 @@ Because channels underlie the [nerve impulse](https://en.wikipedia.org/wiki/Ner
 The study of ion channels often involves [biophysics](https://en.wikipedia.org/wiki/Biophysics "Biophysics"), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology "Electrophysiology"), and [pharmacology](https://en.wikipedia.org/wiki/Pharmacology "Pharmacology"), and uses techniques like RT-PCR, fluoroscopy, immunohistochemistry, etc.
 
 
+## Ion exchange
+The (reversible) process of changing one kind of ion for another, usually from fluids surrounding/inside-outside of a solid barrier. These are also engineering applications, like [[./how milliq water systems produce pure, laboratory grade water|water purification systems]]!
+
 ## Ion channels categorized by gating mechanism
 Ion channels may be classified by the nature of their [gating](https://en.wikipedia.org/wiki/Gating_(electrophysiology) "Gating (electrophysiology)"), the species of ions passing through those gates, the number of gates (pores), and localization of proteins.
 
@@ -35,4 +33,4 @@ Ion channels may be classified by the nature of their [gating](https://en.wikip
 
 ****
 ## references/links
-* 
+* [Ion exchange - Wikipedia](https://en.wikipedia.org/wiki/Ion_exchange)
