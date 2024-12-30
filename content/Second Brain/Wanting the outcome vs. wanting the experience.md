@@ -5,7 +5,7 @@ tags:
   - "#self"
   - "#clarity"
 created: 24-10-2024
-last-modified: 09-12-2024
+last-modified: 26-12-2024
 ---
 **Related**: [[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]]
 

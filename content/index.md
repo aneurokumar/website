@@ -3,8 +3,8 @@ public: true
 title: Home
 linked-notes: 
 tags: 
-created: Tuesday, 19th November 2024
-last-modified: Tuesday, 3rd December 2024
+created: 19-11-2024
+last-modified: 27-12-2024
 aliases:
   - Quartz Homepage
 ---
@@ -20,10 +20,10 @@ Here you can browse my professional history, as well as my [[./second-brain|seco
 | Certificate in Bioinformatics     | September 2024 - Present |
 - Unix, Bash, Command Line, SQL, Python, R, Biostatistics
 
-| University of Tennessee, Knoxville | Knoxville, Tennessee, USA |
-| ---------------------------------- | ------------------------- |
-| Bachelors of Arts in Neuroscience  | 2015 - 2019               |
-|                                    |                           |
+| University of Tennessee, Knoxville                                                                       | Knoxville, Tennessee, USA |
+| -------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[./Bachelors in Neuroscience from University of Tennessee, Knoxville\|Bachelors of Arts in Neuroscience]] | 2015 - 2019               |
+
 
 
 
