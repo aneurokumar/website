@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Navigation",
     },
     footer: {
       createdWith: "Created with",
@@ -63,8 +63,8 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      title: "Oops! File not available",
+      notFound: "Sometimes I link to private notes - sorry about that!",
       home: "Return to Homepage",
     },
     folderContent: {
