@@ -80,7 +80,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             file.data.dates = {
               created: coerceDate(fp, created),
-              modified: `created ${formatDatetoDDMMYYY(coerceDate(fp, created))}, modified ${formatDatetoDDMMYYY(coerceDate(fp, modified))}`,
+              modified: formatDatetoDDMMYYY(coerceDate(fp, modified)),
               published: coerceDate(fp, published),
             }
           }
@@ -94,7 +94,7 @@ declare module "vfile" {
   interface DataMap {
     dates: {
       created: Date
-      modified: Date
+      modified: string
       published: Date
     }
   }
