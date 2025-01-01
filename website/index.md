@@ -3,8 +3,8 @@ public: true
 title: Home
 linked-notes: 
 tags: 
-created: 19-11-2024
-last-modified: 27-12-2024
+created: 2024-11-19
+last-modified: 2025-01-01
 aliases:
   - Quartz Homepage
 ---
