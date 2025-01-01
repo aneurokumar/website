@@ -27,7 +27,7 @@ function coerceDate(fp: string, d: any): Date {
 }
 
 function formatDatetoDDMMYYY(date: Date): string {
-  return date.toLocalDateString('en-US');
+  return date.toLocaleDateString('en-US');
 }
 
 type MaybeDate = undefined | string | number
