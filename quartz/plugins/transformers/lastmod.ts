@@ -53,7 +53,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 created ||= st.birthtimeMs
                 modified ||= st.mtimeMs
               } else if (source === "frontmatter" && file.data.frontmatter) {
-                created ||= file.data.frontmatter.date as MaybeDate
+                created ||= file.data.frontmatter.date["created"] as MaybeDate
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
@@ -81,7 +81,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             file.data.dates = {
               created: coerceDate(fp, created),
-              modified: `${formatDatetoDDMMYYY(coerceDate(fp, created), 'created')}, ${formatDatetoDDMMYYY(coerceDate(fp, modified), 'modified')}`,
+              modified: coerceDate(fp, modified),
               published: coerceDate(fp, published),
             }
           }
@@ -95,7 +95,7 @@ declare module "vfile" {
   interface DataMap {
     dates: {
       created: Date
-      modified: string
+      modified: Date
       published: Date
     }
   }
