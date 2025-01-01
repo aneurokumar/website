@@ -26,6 +26,10 @@ function coerceDate(fp: string, d: any): Date {
   return invalidDate ? new Date() : dt
 }
 
+function formatDatetoDDMMYYY(date: Date): string {
+  return date.toLocalDateString('en-US');
+}
+
 type MaybeDate = undefined | string | number
 export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
@@ -48,7 +52,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 created ||= st.birthtimeMs
                 modified ||= st.mtimeMs
               } else if (source === "frontmatter" && file.data.frontmatter) {
-                created ||= file.data.frontmatter.date as MaybeDate
+                created ||= file.data.frontmatter.date["created"] as MaybeDate
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
@@ -76,7 +80,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             file.data.dates = {
               created: coerceDate(fp, created),
-              modified: coerceDate(fp, modified),
+              modified: formatDateToDDMMYYY(coerceDate(fp, modified)),
               published: coerceDate(fp, published),
             }
           }
@@ -90,7 +94,7 @@ declare module "vfile" {
   interface DataMap {
     dates: {
       created: Date
-      modified: Date
+      modified: string
       published: Date
     }
   }
