@@ -13,7 +13,7 @@ const defaultOptions: Options = {
 }
 
 function coerceDate(fp: string, d: any): Date {
-  if (typeof d === 'string' && /^\d{2}-\d{2}-\d{4}$.test(d)) {
+  if (typeof d === 'string' && /^\d{2}-\d{2}-\d{4}$/.test(d)) {
       // if notes are in DD-MM-YYYY convert them to YYYY-MM-DD so Build & Deploy Quartz stops screaming at me
       const [day, month, year] = d.split('-');
       d = '${year}-${month}-${day}';
