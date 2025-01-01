@@ -1,6 +1,6 @@
 ---
 created: 17-08-2023
-last-modified: 17-12-2024
+last-modified: 30-12-2024
 public: true
 ---
 
@@ -41,20 +41,23 @@ tags::
 
 # Mol Bio
 - How to Adapt Centrifuge Time for Protocols
-- Using Snapgene for plasmids and cloning
+- [[./Using Snapgene for plasmids and cloning|Using Snapgene for plasmids and cloning]]
 - why use a fluorometer instead of a spectrophotometer
 - the VGEF protein and its molecular pathway
 - the HER2 protein and pathway
 - the 5 properties of genetic codes
+- tRNAs and ribosomes
+- probes and plotting techniques in molecular biology
 - membrane tyrosine kinase
+- [[./ion channels|ion channels]]
 - Troubleshooting Checkpoints for Cloning
 - Restriction Cloning
 - Identifying quality of DNA prep on structureed
+- ICM - Assistante Ingénieur
 - [[./ELISAs|ELISAs]]
-- Designing PCR Primers
-- DNA replication is a semiconservative process
+- [[./Designing PCR Primers|Designing PCR Primers]]
+- [[./DNA replication is a semiconservative process|DNA replication is a semiconservative process]]
 - Chargaff’s Rule
-- ion channels
 - [[./Acridine orange|Acridine orange]]
 - BCMB 412 Test 3 Study Guide
 - BCMB 412 Test 2 Study Guide
@@ -79,10 +82,10 @@ There are DNA and RNA primers, and DNA primers are used in experiments because t
 * Viability:
 	* **longer shelf-life, more stable**
 	* ***shorter life, more reactive*
-* Designing PCR Primers
+* [[./Designing PCR Primers|Designing PCR Primers]]
 
 # Neurobiology
-[gibco-neurobiology-protocol-handbook.pdf](https://assets.thermofisher.com/TFS-Assets/BID/Handbooks/gibco-neurobiology-protocol-handbook.pdf)
+* [gibco-neurobiology-protocol-handbook.pdf](https://assets.thermofisher.com/TFS-Assets/BID/Handbooks/gibco-neurobiology-protocol-handbook.pdf)
 
 # Experimental Methods
 * [[./ELISAs|ELISAs]]

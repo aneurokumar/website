@@ -5,7 +5,7 @@ tags:
   - chemistry
   - ions
 created: 30-12-2024
-last-modified: 30-12-2024
+last-modified: 31-12-2024
 ---
 **Related:** [[./Lab Management MOC|Lab Management MOC]], Hardwater into dishwasher and milliq machine ruining machines
 
@@ -13,7 +13,7 @@ last-modified: 30-12-2024
 > **Summary**
 > Milli-Q water is a water purification system for labs which include high-flow and ultrapure water systems. It removes contaminants/impurities and distributes water free from particles, ions, and other organic compounds.
 > 
-> Side note: do not drink this! 
+> Side note: do not drink this, or use the Ultrapure water for equipments!
 
 # Purity via reverse osmosis, de-ionization, and UV irradiation
 MilliQ water is purified to Type I standard = very low impurities. It goes through a multi-step process (see heading).
