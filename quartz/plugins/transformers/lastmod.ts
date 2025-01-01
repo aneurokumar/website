@@ -26,9 +26,8 @@ function coerceDate(fp: string, d: any): Date {
   return invalidDate ? new Date() : dt
 }
 
-  function formatDatetoDDMMYYY(date: Date, label: string): string {
-    const formattedDate = date.toLocaleDateString('en-US');
-    return `${label} ${formattedDate}`;
+  function formatDatetoDDMMYYY(date: Date): string {
+  return date.toLocaleDateString('en-US');
 }
 
 type MaybeDate = undefined | string | number
@@ -81,7 +80,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             file.data.dates = {
               created: coerceDate(fp, created),
-              modified: coerceDate(fp, modified),
+              modified: `created ${formatDatetoDDMMYYY(coerceDate(fp, created))}, modified ${formatDatetoDDMMYYY(coerceDate(fp, modified))}`,
               published: coerceDate(fp, published),
             }
           }
