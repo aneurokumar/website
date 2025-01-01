@@ -30,7 +30,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        // segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        segments.push("Neurogenesis on " + formatDate(fileData.dates.created))
+        segments.push("Signal refined on " + formatDate(fileData.dates.modified))
       }
 
       // Display reading time if enabled
