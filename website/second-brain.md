@@ -2,8 +2,8 @@
 public: true
 title: Second Brain
 tags: 
-created: 02-12-2024
-last-modified: 07-12-2024
+created: 2024-12-02
+last-modified: 2025-01-01
 ---
 **Related:** [[./index|Home]]
 
