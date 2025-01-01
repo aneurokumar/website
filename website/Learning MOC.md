@@ -35,4 +35,4 @@ priming for self-study will accelerate your learning: activating relevant backgr
 	4. **Ask Questions:** Before you start reading, come up with some questions about the topic based on your existing knowledge.
 	5. **Analogies and Metaphors:** Relate new information to something you already know and understand to make it easier to grasp.
 
-Using a[[How to design a reading plan | reading plan]] can help structure your learning, and actually keep you motivated!
+Using a [[How to design a reading plan |reading plan]] can help structure your learning, and actually keep you motivated!
