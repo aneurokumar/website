@@ -13,6 +13,12 @@ const defaultOptions: Options = {
 }
 
 function coerceDate(fp: string, d: any): Date {
+  if (typeof d === 'string' && /^\d{2}-\d{2}-\d{4}$.test(d)) {
+      // if notes are in DD-MM-YYYY convert them to YYYY-MM-DD so Build & Deploy Quartz stops screaming at me
+      const [day, month, year] = d.split('-');
+      d = '${year}-${month}-${day}';
+}
+        
   const dt = new Date(d)
   const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0
   if (invalidDate && d !== undefined) {
@@ -26,9 +32,6 @@ function coerceDate(fp: string, d: any): Date {
   return invalidDate ? new Date() : dt
 }
 
-  function formatDatetoDDMMYYY(date: Date): string {
-  return date.toLocaleDateString('en-US');
-}
 
 type MaybeDate = undefined | string | number
 export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
@@ -80,7 +83,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             file.data.dates = {
               created: coerceDate(fp, created),
-              modified: formatDatetoDDMMYYY(coerceDate(fp, modified)),
+              modified: coerceDate(fp, modified),
               published: coerceDate(fp, published),
             }
           }
