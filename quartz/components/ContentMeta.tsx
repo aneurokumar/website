@@ -31,8 +31,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       if (fileData.dates) {
         // segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
-        segments.push("Neurogenesis on " + formatDate(fileData.dates.created))
-        segments.push("Signal refined on " + formatDate(fileData.dates.modified))
+        segments.push("Neurogenesis: " + formatDate(fileData.dates.created))
+        segments.push("Synapse refined: " + formatDate(fileData.dates.modified))
       }
 
       // Display reading time if enabled
