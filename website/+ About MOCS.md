@@ -1,6 +1,6 @@
 ---
-created: Friday, 29th November 2024
-last-modified: Thursday, 5th December 2024
+created: 29-11-2024
+last-modified: 30-12-2024
 public: true
 title: About MOCS
 tags:
@@ -14,26 +14,26 @@ For example, notes about Hardwater into dishwasher and milliq machine ruining ma
 
 | MOC                                                                                 | Number of Notes |
 | ----------------------------------------------------------------------------------- | --------------- |
-| [[./Biological Science MOC\|Biological Science MOC]]                       | 24              |
+| [[./Biological Science MOC\|Biological Science MOC]]                       | 28              |
+| [[./Programming MOC\|Programming MOC]]                                     | 26              |
 | Concepts MOC                                           | 23              |
-| [[./Programming MOC\|Programming MOC]]                                     | 22              |
 | Personal Development MOC                   | 22              |
 | Career Development & Business MOC | 22              |
-| [[./Lab Management MOC\|Lab Management MOC]]                               | 18              |
+| [[./Lab Management MOC\|Lab Management MOC]]                               | 21              |
 | Data Science MOC                                   | 17              |
 | Bioinformatics MOC                               | 17              |
 | Writing MOC                                             | 16              |
 | Literature MOC                                       | 16              |
+| Psychlogy MOC                                         | 14              |
 | [[./Leadership & Management MOC\|Leadership & Management MOC]]             | 14              |
-| Psychlogy MOC                                         | 13              |
-| Obsidian MOC                                           | 11              |
-| [[./Learning MOC\|Learning MOC]]                                           | 11              |
+| [[./Learning MOC\|Learning MOC]]                                           | 13              |
 | [[./Identity MOC\|Identity MOC]]                                           | 11              |
 | Feminism MOC                                           | 11              |
+| Obsidian MOC                                           | 10              |
 | Language MOC                                           | 9               |
+| Home Management MOC                             | 7               |
 | Finance MOC                                             | 7               |
 | Clarity MOC                                             | 7               |
-| Home Management MOC                             | 6               |
 | Plan and Review MOC                             | 5               |
 | Religion MOC                                           | 3               |
 | Operations and Strategy MOC             | 1               |
