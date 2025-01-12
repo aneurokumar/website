@@ -5,8 +5,8 @@ tags:
   - computer-science
   - learning
   - spiral-learning
-created: 01-11-2024
-last-modified: 26-12-2024
+created: 2024-11-01
+last-modified: 2025-01-12
 ---
 **Related**: Concepts MOC
 
@@ -37,4 +37,4 @@ crackmes.one for reverse engineering challenges
 write the code and run it on the board, to really understand how to code is going to be pushed to the board, and how it will act on an external server
 
 ## references/links
-* 
+* [before you code, learn how computers work - YouTube](https://youtu.be/97i2BAUw5Xc?si=WrHRDIR5kOuWL8DA)
