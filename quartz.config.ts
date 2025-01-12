@@ -30,25 +30,25 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+	  light: "#faf8f8", // background
+	  lightgray: "#d8e3e9", // search bar, line breaks, graph connections, and graph borders
+	  gray: "#aab9c5", //date created/modified/description, outgoing links
+	  darkgray: "#4e4e4e",
+	  dark: "#344655", // headers and navigation before highlighted
+	  secondary: "#a3310f", // needs to be darker than tertiary, tags, secondary links
+	  tertiary: "#d4881e",
+	  highlight: "rgba(218, 106, 60, 0.10)", //box highlight for linked pages
+	  textHighlight: "#ff784488",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1c1b2e",
+          lightgray: "#2e3140",
+          gray: "#4a5e6b",
+          darkgray: "#9bb7c7",
+          dark: "#bbc7d4",
+          secondary: "#9bc9ac",
+          tertiary: "#4bbfae",
+          highlight: "rgba(123, 219, 205, 0.10)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.HardLineBreaks(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
