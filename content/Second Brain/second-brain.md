@@ -2,8 +2,8 @@
 public: true
 title: Second Brain
 tags: 
-created: 2024-12-02
-last-modified: 2025-01-01
+created: 19-11-2024
+last-modified: 03-01-2025
 ---
 **Related:** [[./index|Home]]
 
@@ -20,7 +20,7 @@ Advancing through my career and projects, I had thousands of notes in research n
 >"...**an external, centralized, digital repository for the things you learn** and the resources from which they come...(leaving) **our biological brain to imagine, create, and simply be present**."
 > - Tiago Forte
 
-In Spring 2023, I read [Building a Second Brain](https://fortelabs.com/blog/basboverview/), then watched Nick Milo’s video on Linking Your Thinking. Since then, I’ve been filling my Second Brain with notes and creating insights that I share with others. In November 2024, I started publishing a public version of my second brain using Quartz and GithubPublic.
+In Spring 2023, I read [Building a Second Brain](https://fortelabs.com/blog/basboverview/), then watched Nick Milo’s video on Linking Your Thinking. Since then, I’ve been filling my Second Brain with notes and creating insights that I share with others. In November 2024, I started publishing a public version of my second brain using Quartz and Enveloppe.
 
 Some of these notes are fleshed out and well developed, others short works-in-progress. Don't be afraid to poke around!
 

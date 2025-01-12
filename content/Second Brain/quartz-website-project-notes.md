@@ -5,7 +5,7 @@ tags:
   - git
   - website
 created: 2024-11-19
-last-modified: 2025-01-01
+last-modified: 2025-01-12
 ---
 **Related:** Obsidian MOC, [[./Programming MOC|Programming MOC]], Career Development & Business MOC
 
@@ -25,16 +25,127 @@ last-modified: 2025-01-01
 	* copies all notes from `website` folder into `content` folder
 	* moves notes inside `content` folder to subfolders `Articles`, `Book Notes`, or `Second Brain` based on `article` or `book` present in YAML frontmatter, and remaining notes into `Second Brain`
 
-# Ideas and To-Do's
+# quartz-to-do-note
 sorted from (what I think is) decreasing levels of diffculty
 
 - [ ] Notion skills and projects visual database replica in quartz (via [Clever Cloud](https://www.clever-cloud.com/pricing/)?)
 	- [ ] make it viewable in profile readme file
 - [ ] Add Headers on top for different "categories" or different landing pages
 - [ ] Recent notes - find out how I want to incorporate recent notes added
+- [ ] enable HardLineBreaks in `plugin/transformers/HardLineBreaks.ts`
 
 # Changelog
-Inspired by Eilleen's changelog! Turns out that GLPs are pretty similar to good coding practices.
+Inspired by [Eilleen's changelog](https://quartz.eilleeenz.com/Quartz-customization-log)! Turns out that GLPs are pretty similar to good coding practices.
+
+### Changed color palette of site
+Warm-toned light mode, cold-toned dark mode color changes.
+```
+quartz.config.ts
+```
+
+```css
+colors: {
+        lightMode: {
+	  light: "#faf8f8", // background
+	  lightgray: "#d8e3e9", // search bar, line breaks, graph connections, and graph borders
+	  gray: "#aab9c5", //date created/modified/description, outgoing links
+	  darkgray: "#4e4e4e",
+	  dark: "#344655", // headers and navigation before highlighted
+	  secondary: "#a3310f", // needs to be darker than tertiary, tags, secondary links
+	  tertiary: "#d4881e",
+	  highlight: "rgba(218, 106, 60, 0.10)", //box highlight for linked pages
+	  textHighlight: "#ff784488",
+        },
+        darkMode: {
+          light: "#1c1b2e",
+          lightgray: "#2e3140",
+          gray: "#4a5e6b",
+          darkgray: "#9bb7c7",
+          dark: "#bbc7d4",
+          secondary: "#9bc9ac",
+          tertiary: "#4bbfae",
+          highlight: "rgba(123, 219, 205, 0.10)",
+          textHighlight: "#b3aa0288",
+        },
+      }
+
+
+```
+
+### added hard line breaks via Plugin.HardLineBreaks()
+plugins/transformers
+```
+quartz.config.ts
+```
+
+```shell
+plugins: {
+    transformers: [
+      Plugin.FrontMatter(),
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "filesystem"],
+      }),
+      Plugin.SyntaxHighlighting({
+        theme: {
+          light: "github-light",
+          dark: "github-dark",
+        },
+        keepBackground: false,
+      }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.GitHubFlavoredMarkdown(),
+      Plugin.TableOfContents(),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.Description(),
+      Plugin.HardLineBreaks(),
+      Plugin.Latex({ renderEngine: "katex" }),
+    ]
+```
+
+### added last-modified to content, changed identifiers, coerceDate to handle DD-MM-YYYY format
+I wanted to use my yaml `last-modified` to show the last time I interacted with the note. I realized some of my notes were in the wrong format (DD-MM-YYYY), so I updated my Linter plugin to now update them in YYYY-MM-DD format. I changed the coerceDate function to handle any DD-MM-YYYY dates while I make the changes.
+
+**added "modified" component w/custom naming**
+```
+website/quartz/componenets/ContentMeta.tsx
+```
+
+```javascript
+if (fileData.dates) {
+        // segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        segments.push("Neurogenesis: " + formatDate(fileData.dates.created))
+        segments.push("Synapse refined: " + formatDate(fileData.dates.modified))
+      }
+```
+
+**signaled 'last-modified' to be used**
+```
+quartz/plugin/transformers/lastmod.ts
+```
+
+```javascript
+} else if (source === "frontmatter" && file.data.frontmatter) {
+                created ||= file.data.frontmatter["created"] as MaybeDate
+                modified ||= file.data.frontmatter.lastmod as MaybeDate
+                modified ||= file.data.frontmatter.updated as MaybeDate
+                modified ||= file.data.frontmatter["last-modified"] as MaybeDate //added 'last-modified' from the noe yaml to be used as a modified date object
+                published ||= file.data.frontmatter.publishDate as MaybeDate
+```
+
+**changed coerceDate to handle DD-MM-YYYY**
+```
+quartz/plugin/transformers/lastmod.ts
+```
+
+```javascript
+function coerceDate(fp: string, d: any): Date {
+  if (typeof d === 'string' && /^\d{2}-\d{2}-\d{4}$/.test(d)) {
+      // if notes are in DD-MM-YYYY convert them to YYYY-MM-DD so Build & Deploy Quartz stops screaming at me
+      const [day, month, year] = d.split('-');
+      d = `${year}-${month}-${day}`;
+}
+```
+
 ### Deploy and Build Quartz manual trigger option
 on `.github/workflows/deploy.yml`
 * `deploy.yml` runs whenever my `organize-notes.yml` workflow finished
@@ -223,24 +334,3 @@ First thing I did when I started with Quartz! The goal was just to get it runnin
 1. push full second brain to a private github repo as backup
  2. sync local second brain to local quartz folder via script
  3. navigate to quartz folder and execute `npx quartz sync` to sync quartz to public github repo
-### High Impact To do's
-- [x] Write the Welcome page
-- [x] Create "About Second Brain" page
-- [ ] Input CV as raw text
-- [ ] create education links
-	- [ ] UTK
-	- [ ] CNAM
-- [ ] create job links
-	- [ ] ICM
-	- [ ] Scipio
-	- [ ] Biolabs
-- [ ] create volunteer and Project links
-	- [ ] volunteer
-		- [ ] WICE
-		- [ ] Pardesi
-		- [ ] AWOL
-		- [ ] Bits n Bio
-	- [ ] Projects
-		- [ ] Newsletter
-		- [ ] Figure 1 Labs
-		- [ ] Website
