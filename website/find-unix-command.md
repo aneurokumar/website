@@ -3,8 +3,8 @@ public: true
 title: find (unix command)
 tags:
   - unix
-created: 30-11-2024
-last-modified: 09-12-2024
+created: 2024-11-30
+last-modified: 2025-01-12
 ---
 **Related:** 2024-10-07 Unix Lecture 4, exec-find-unix-command, [[./Programming MOC|Programming MOC]]
 

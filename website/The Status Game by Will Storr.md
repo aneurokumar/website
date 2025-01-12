@@ -9,7 +9,7 @@ tags:
   - neuroscience
   - psychology
 created: 04-04-2024
-last-modified: 09-12-2024
+last-modified: 03-01-2025
 ---
 **Related**: The 48 Laws of Power by Robert Greene
 
@@ -30,7 +30,8 @@ last-modified: 09-12-2024
 - To our brains, status is a resource as real as oxygen or water. When we lose it, we break.  
   
 ### Chapter 3: an imagined world of symbols.  
-- – interpreter module – this perspective of the brain sets up our linkage of simples as status indicators by representing the world as a reward space.  
+Our brains interpret the world as a reward space
+- **interpreter module:** Storr uses **interpreter module** to describe that the complex neural network in our brains links symbols as status indicators depending on how others interact with them. 
 - – hypothesis: gives us clear goals and rewards. Indicators of how well we’re doing in order to get more resources/reproduce. Symbols are easily identifiable sign posts.  
 - – Symbols and etiquette around them can be anything. Example: yam size and not being seen looking at peoples yams. Also number of pens on desk.  
 - – – A brain as an interpreter module makes it quite obvious that we really have “evolved “at all  
@@ -83,7 +84,7 @@ Change across space time: Asia centric versus West. Sea culture map book.
 – Prestige programs can work to nudge or let go of behavior, but only when the player is already of high importance and influence. Example: decline of shark fin fishing in China.  
 – influence is the ability to drive and achieve change in a group. In dominance games, it manifest as power, and willingly offered by players in prestige games. We take it highly personal when our suggestions/influence attempts fail – which can trigger hurt or vengeful reactions. At this turning point, the player might try to grab status by dominance.  
   
-### Chapter 7: dominance games.  
+### Chapter 7: dominance games  
 – dominance was the first status system to develop in humans neurologically, and sits below the prestige systems that recently developed in our evolution. Second self is a phrase used to describe the dominance related system.  
 – we are prone to following leaders with dominance, heavy persona versus prestige, even though the results are worse with dominance personas. For example we are more likely to pick very dominant persona during times of war or whenever the status of our game is under threat, and pick leaders with more prestige systems during times of peace.  
 – – is it because they reassure us? Give us certainty?  
@@ -99,5 +100,6 @@ Change across space time: Asia centric versus West. Sea culture map book.
 - solid face-to-face relationships is the key to surviving and thriving in old age
 - we desire worth, acclaim, and to be of value
 - when freedom means expulsion from the meaning you've spent your life making, then freedom is hell
+- [[./The Science of Storytelling by Will Storr|The Science of Storytelling by Will Storr]]
 
 
