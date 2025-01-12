@@ -6,9 +6,9 @@ tags:
   - programming
   - 3xp
 created: 2025-01-01
-last-modified: 2025-01-01
+last-modified: 2025-01-11
 ---
-**Related:** quartz-website-project-notes
+**Related:** [[./quartz-website-project-notes|quartz-website-project-notes]]
 
 ---
 
