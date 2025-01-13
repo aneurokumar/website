@@ -4,8 +4,8 @@ title: About MOCS
 tags:
   - pkm
   - obsidian
-created: 29-11-2024
-last-modified: 03-01-2025
+created: 2024-11-29
+last-modified: 2025-01-12
 ---
 **Related:** [[./index|Home]], Obsidian MOC
 
@@ -22,10 +22,10 @@ For example, notes about Hardwater into dishwasher and milliq machine ruining ma
 | [[./Lab Management MOC\|Lab Management MOC]]                               | 23              |
 | Concepts MOC                                           | 23              |
 | Career Development & Business MOC | 20              |
-| Bioinformatics MOC                               | 19              |
+| Literature MOC                                       | 17              |
 | Data Science MOC                                   | 17              |
+| Bioinformatics MOC                               | 17              |
 | Writing MOC                                             | 16              |
-| Literature MOC                                       | 16              |
 | Psychlogy MOC                                         | 14              |
 | [[./Leadership & Management MOC\|Leadership & Management MOC]]             | 14              |
 | [[./Learning MOC\|Learning MOC]]                                           | 13              |
