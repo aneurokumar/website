@@ -3,7 +3,7 @@ public: true
 title: Home
 tags: 
 created: 2024-11-19
-last-modified: 2025-01-12
+last-modified: 2025-01-13
 aliases:
   - Quartz Homepage
 ---
