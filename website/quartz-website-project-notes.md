@@ -5,15 +5,15 @@ tags:
   - git
   - website
 created: 2024-11-19
-last-modified: 2025-01-12
+last-modified: 2025-01-13
 ---
 **Related:** Obsidian MOC, [[./Programming MOC|Programming MOC]], Career Development & Business MOC
 
 ---
- I've been wanting to have an actual hosted website for so long, and since I got into Obsidian/Second Brain, I've wanted to share this as well. Thanks to Jacky Zhao for this amazing free alternative and the Quartz Discord community!
+ These are
 # Build V2.0
 **Services/Platforms**
-- Obsidian Sync (paid) - worry-free syncing of my vault across all my devices
+- Obsidian Sync (paid) - worry-free syncing of my vault across all my devices. 
 - Github Pages - hosts the site
 **Community Plugins**
 - Enveloppe
@@ -30,15 +30,17 @@ sorted from (what I think is) decreasing levels of diffculty
 
 - [ ] Notion skills and projects visual database replica in quartz (via [Clever Cloud](https://www.clever-cloud.com/pricing/)?)
 	- [ ] make it viewable in profile readme file
-- [ ] Add Headers on top for different "categories" or different landing pages
-- [ ] Recent notes - find out how I want to incorporate recent notes added
-- [ ] enable HardLineBreaks in `plugin/transformers/HardLineBreaks.ts`
+- [ ] Add Headers on top for different "categories" or different landing pages - landing pages for each folder?
+- [ ] Recent notes and blog posts - find out how I want to incorporate recent notes added and recent blog posts added
+- [x] enable HardLineBreaks in `plugin/transformers/HardLineBreaks.ts`
 
 # Changelog
-Inspired by [Eilleen's changelog](https://quartz.eilleeenz.com/Quartz-customization-log)! Turns out that GLPs are pretty similar to good coding practices.
+Inspired by [Eilleen's changelog](https://quartz.eilleeenz.com/Quartz-customization-log)!
 
 ### Changed color palette of site
 Warm-toned light mode, cold-toned dark mode color changes.
+Note to self: after making color etc. changes, if they don't show up after deployment, do a hard refresh (`Ctrl+Shift+F5` or retype the url)
+
 ```
 quartz.config.ts
 ```
@@ -103,7 +105,7 @@ plugins: {
 ```
 
 ### added last-modified to content, changed identifiers, coerceDate to handle DD-MM-YYYY format
-I wanted to use my yaml `last-modified` to show the last time I interacted with the note. I realized some of my notes were in the wrong format (DD-MM-YYYY), so I updated my Linter plugin to now update them in YYYY-MM-DD format. I changed the coerceDate function to handle any DD-MM-YYYY dates while I make the changes.
+I wanted to use my yaml `last-modified` to show the last time I interacted with the note. I realized some of my notes were in the wrong format (DD-MM-YYYY), so I updated my Linter plugin to now update them in YYYY-MM-DD format. [[./updating date format for files in javascript|I changed the coerceDate function to handle any DD-MM-YYYY dates while I make the changes.]]
 
 **added "modified" component w/custom naming**
 ```
