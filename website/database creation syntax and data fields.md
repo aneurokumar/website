@@ -2,10 +2,10 @@
 public: true
 title: 
 tags: 
-created: 30-12-2024
-last-modified: 30-12-2024
+created: 2024-12-30
+last-modified: 2025-01-12
 ---
-**Related:** [[./Programming MOC|Programming MOC]], BNF 101 Base Informatiques  
+**Related:** [[./Programming MOC|Programming MOC]], [[./BNF 101 Base Informatiques|BNF 101 Base Informatiques]]  
 
 ---
 
