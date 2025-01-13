@@ -2,15 +2,15 @@
 public: true
 title: 
 tags: 
-created: 
-last-modified: 
+created: 2023-10-20
+last-modified: 2025-01-13
 ---
 **Related**:
 
 ---
 
 > [!info]
-> A landing page for things I send to other folks about Paris and where to go, what to do :)
+> A landing page for things I send to other folks about Paris, where to go, what to do :)
 
 ## Outdoor markets/thrift
 Helpful website + schedule: [vides grenieres in paris](https://brocabrac.fr/75/)
