@@ -18,7 +18,7 @@ Helpful website + schedule: [vides grenieres in paris](https://brocabrac.fr/75/)
 ## English(ish) bookshops
 * Shakespeare & Co 
 	* 37 Rue de la Bûcherie, 75005 Paris
-	* cafe next door, a little cramped during prime tourist hours. personally don't like the collection and layout as much as before but it's still a must visit
+	* cafe next door, a little cramped during prime tourist hours. personally don't like the collection and layout as much as before, but it's a cute touristy spot 
 * Galignani
 	* 224 Rue de Rivoli, 75001 Paris
 	* bilingual, large selection of fiction and nonfiction
