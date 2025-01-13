@@ -11,7 +11,7 @@ aliases:
 I'm a biotech professional based in Paris, passionate about biology, stress-free workflows, compassionate self-improvement, and bubble tea. Welcome to my [[./second-brain|second brain]].
 
 A little about me:
-📍: the Paris note
+📍: [[./the Paris note|Paris, France]]
 💼: Lab Ops Associate at Biolabs Hôtel-Dieu, Paris, France
 🎓: [[./Bachelors in Neuroscience from University of Tennessee, Knoxville|Bachelors in Neuroscience]], currently studying [[./Bioinformatics Certificate at CNAM|Bioinformatics]]
 💪: Molecular biology, data analysis, mammalian cell culture, and [[./Lab Management MOC|lab management]]
@@ -22,4 +22,4 @@ This contains my professional history portfolio and doubles as my second brain (
 
 Some of these notes are cohesive thoughts, while others are the beginnings of an idea.
 
-The Navigation on the left-hand side is always available on the screen, however it's much more fun if you poke around the available pages. 
+The Navigation on the left-hand side is always available on the screen; however it's much more fun if you poke around the available pages. 
