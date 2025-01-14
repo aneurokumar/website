@@ -5,8 +5,8 @@ tags:
   - javascript
   - programming
   - 3xp
-created: 2025-01-01
-last-modified: 2025-01-12
+created: 01-01-2025
+last-modified: 14-01-2025
 ---
 **Related:** [[./quartz-website-project-notes|quartz-website-project-notes]]
 
