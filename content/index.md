@@ -2,8 +2,8 @@
 public: true
 title: Home
 tags: 
-created: 2024-11-19
-last-modified: 2025-01-13
+created: 19-11-2024
+last-modified: 14-01-2025
 aliases:
   - Quartz Homepage
 ---
@@ -15,7 +15,7 @@ A little about me:
 💼: Lab Ops Associate at Biolabs Hôtel-Dieu, Paris, France
 🎓: [[./Bachelors in Neuroscience from University of Tennessee, Knoxville|Bachelors in Neuroscience]], currently studying [[./Bioinformatics Certificate at CNAM|Bioinformatics]]
 💪: Molecular biology, data analysis, mammalian cell culture, and [[./Lab Management MOC|lab management]]
-💗: Dogs, bubble tea, smooth ball-point pens, and a Literature MOC!
+💗: Dogs, bubble tea, smooth ball-point pens, and a [[Literature MOC|good book]]!
 
 ## How to use this site
 This contains my professional history portfolio and doubles as my second brain (or digital garden/online commonplace book) for [learning in public](https://grow-self.com/learning-in-public/#:~:text=Learning%20in%20public%20is%20a%20growing%20trend%20and,you%E2%80%99re%20learning%20and%20making%20it%20accessible%20to%20others.).
