@@ -4,8 +4,8 @@ title:
 tags:
   - datascience
   - programming
-created: 15-10-2024
-last-modified: 14-01-2025
+created: 2024-10-15
+last-modified: 2025-01-14
 ---
 **Related**: [[./BNF 101 Base Informatiques|BNF 101 Base Informatiques]], [[./quartz-website-project-notes|quartz-website-project-notes]]
 
