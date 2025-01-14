@@ -6,8 +6,8 @@ tags:
   - neuroscience
   - biology
   - psychology
-created: 2024-12-27
-last-modified: 2025-01-12
+created: 27-12-2024
+last-modified: 14-01-2025
 ---
 **Related:** [[./Biological Science MOC|Biological Science MOC]], Psychlogy MOC
 
