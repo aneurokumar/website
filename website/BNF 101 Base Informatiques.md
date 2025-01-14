@@ -5,8 +5,8 @@ tags:
   - bioinformatics
   - course
   - bnf
-created: 24-09-2024
-last-modified: 14-01-2025
+created: 2024-09-24
+last-modified: 2025-01-14
 ---
 **Related**: [[./Bioinformatics Certificate at CNAM|Bioinformatics Certificate at CNAM]], [[Bioinformatics MOC|Bioinformatics MOC]], [[Bioinformatics Career Change|Bioinformatics Career Change]]
 
@@ -139,15 +139,15 @@ These are atomic notes based on my personal lecture notes. This allows me to lin
 | [[algorithms are a method executed step by step to resolve a problem or give a desired result\|algorithms are a method executed step by step to resolve a problem or give a desired result]] |
 | [[total participation vs partial participation\|total participation vs partial participation]]                                                                                               |
 | [[formes normales - normal forms in database formalization\|formes normales - normal forms in database formalization]]                                                                       |
-| [[Using divs and nested divs in css\|Using divs and nested divs in css]]                                                                                                                     |
 | [[HTML Lecture 1\|HTML Lecture 1]]                                                                                                                                                           |
 | [[MERISE Method of database design\|MERISE Method of database design]]                                                                                                                       |
-| [[BNF 101 Base Informatiques\|BNF 101 Base Informatiques]]                                                                                                                             |
 | [[2024-12-17 BDD + R - session 3\|2024-12-17 BDD + R - session 3]]                                                                                                                           |
 | [[./3 fundamentals characteristics of a computer\|3 fundamentals characteristics of a computer]]                                                                                               |
 | [[2024-09-16 Unix Lecture 1\|2024-09-16 Unix Lecture 1]]                                                                                                                                     |
 | [[./Buses and RAM work in computer architecture\|Buses and RAM work in computer architecture]]                                                                                                 |
 | [[./Computers work based on Von Neumann Machine principles\|Computers work based on Von Neumann Machine principles]]                                                                           |
+| [[Using divs and nested divs in css\|Using divs and nested divs in css]]                                                                                                                     |
+| [[BNF 101 Base Informatiques\|BNF 101 Base Informatiques]]                                                                                                                             |
 
 
 ## Other references
