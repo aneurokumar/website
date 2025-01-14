@@ -7,10 +7,9 @@ tags:
 created: 2024-11-19
 last-modified: 2025-01-13
 ---
-**Related:** Obsidian MOC, [[./Programming MOC|Programming MOC]], Career Development & Business MOC
+**Related:** [[Obsidian MOC|Obsidian MOC]], [[./Programming MOC|Programming MOC]], [[Career Development & Business MOC|Career Development & Business MOC]]
 
 ---
- These are
 # Build V2.0
 **Services/Platforms**
 - Obsidian Sync (paid) - worry-free syncing of my vault across all my devices. 
@@ -25,9 +24,11 @@ last-modified: 2025-01-13
 	* copies all notes from `website` folder into `content` folder
 	* moves notes inside `content` folder to subfolders `Articles`, `Book Notes`, or `Second Brain` based on `article` or `book` present in YAML frontmatter, and remaining notes into `Second Brain`
 
-# quartz-to-do-note
+# [[quartz-to-do-note|Ideas and To-Do's]]
 sorted from (what I think is) decreasing levels of diffculty
 
+- [ ] delete all class powerpoints from github (using git pull etc.)
+- [ ] create folder for all images/pdfs and update `organize-content.yml` to place them inside
 - [ ] Notion skills and projects visual database replica in quartz (via [Clever Cloud](https://www.clever-cloud.com/pricing/)?)
 	- [ ] make it viewable in profile readme file
 - [ ] Add Headers on top for different "categories" or different landing pages - landing pages for each folder?
