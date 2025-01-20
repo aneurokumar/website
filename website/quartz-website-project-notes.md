@@ -4,10 +4,10 @@ title: Quartz Build and Changelog
 tags:
   - git
   - website
-created: 2024-11-19
-last-modified: 2025-01-13
+created: 19-11-2024
+last-modified: 16-01-2025
 ---
-**Related:** [[Obsidian MOC|Obsidian MOC]], [[./Programming MOC|Programming MOC]], [[Career Development & Business MOC|Career Development & Business MOC]]
+**Related:** Obsidian MOC, [[./Programming MOC|Programming MOC]], Career Development & Business MOC
 
 ---
 # Build V2.0
@@ -24,7 +24,7 @@ last-modified: 2025-01-13
 	* copies all notes from `website` folder into `content` folder
 	* moves notes inside `content` folder to subfolders `Articles`, `Book Notes`, or `Second Brain` based on `article` or `book` present in YAML frontmatter, and remaining notes into `Second Brain`
 
-# [[quartz-to-do-note|Ideas and To-Do's]]
+# quartz-to-do-note
 sorted from (what I think is) decreasing levels of diffculty
 
 - [ ] delete all class powerpoints from github (using git pull etc.)

@@ -5,10 +5,10 @@ tags:
   - attention
   - neuroscience
   - neuroanatomy
-created: 26-12-2024
-last-modified: 26-12-2024
+created: 2024-12-26
+last-modified: 2025-01-16
 ---
-**Related:** Hyperfocus by Chris Bailey, [[./Biological Science MOC|Biological Science MOC]]
+**Related:** [[./Hyperfocus by Chris Bailey|Hyperfocus by Chris Bailey]], [[./Biological Science MOC|Biological Science MOC]]
 
 ---
 

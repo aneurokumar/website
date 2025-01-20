@@ -7,8 +7,8 @@ tags:
   - management
   - labmanagement
   - change
-created: 04-09-2023
-last-modified: 09-12-2024
+created: 2023-09-04
+last-modified: 2025-01-16
 ---
 **Related**: [[./Lab Management MOC|Lab Management MOC]], [[./Leadership & Management MOC|Leadership & Management MOC]]
 
@@ -20,14 +20,10 @@ last-modified: 09-12-2024
 ### Unified Theory of Acceptance and Use of Technology
 ### Reaction to change mimics grief-loss cycle
 
-### symptoms-and-resistance-to-change-and-why-you-should-not-ignore-them
+### [[./symptoms-and-resistance-to-change-and-why-you-should-not-ignore-them|symptoms of resistance: what to expect, consequences of ignoring them]]
 ## references/links/images
 * https://biosistemika.com/digitalization/
 * Dr. Jana Erjavec, PhD: jerjavec@biosistemika.com
-
-
-
-
 
 
 Can users react positively? yes!

@@ -6,7 +6,7 @@ tags:
   - coding
   - note/atomize
 created: 12-10-2024
-last-modified: 26-12-2024
+last-modified: 15-01-2025
 ---
 **Related**:
 
@@ -20,7 +20,7 @@ Understanding broader relationships between code and the overall process. What c
 
 Collaboration
 * how will your contributions affect other people and other downstream processes?
-* coding with other people in mind: meaningful names, clean code practices, and comments
+* coding with other people in mind: meaningful names, [[./clean code|clean code]] practices, and comments
 * your code might be maintained by someone else - what can you do it make it easier for extensions or refactoring?
 
 Improve the wheel
@@ -34,7 +34,8 @@ Think in processes
 * think things through - thought experiments: if I need to go from A to Z, what does it take?
 * many people think about the coding languages themselves and not about problem solving or improvements
 
-## Failure is improvement
+## [[./Failure is improvement|Failure is improvement]]
+"Failure" is an opportunity to learn and strengthens your problem solving muscle. Approaching problems with a framework, understanding where your code went wrong, and scaling down intimidating projects are applicable everywhere (not just in coding)!
 
 ## references/links?
 * [How to think like A GENIUS Programmer - YouTube](https://www.youtube.com/watch?v=kQUwImj32PA)
