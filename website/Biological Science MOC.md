@@ -1,6 +1,6 @@
 ---
 created: 17-08-2023
-last-modified: 30-12-2024
+last-modified: 20-01-2025
 public: true
 ---
 
@@ -28,15 +28,14 @@ tags::
 - single-cell sequencing and its use in drug development
 - proliferation assays and common issues with pbmcs
 - pbmcs are a source of diagnostic and prognostic biomarkers
-- how to decide if we should use magnetic cell separation of FACS to isolate cells
 - cytotoxicity assays and common issues with pbmcs
 - cytokine production assays and their common issues
 - cell isolation, cell separation, and cell sorting can be used for different purposes but are very related
-- cancer cell lines
 - cancer at a cellular level
 - Small Lab Process hacks
-- [[./ELISAs|ELISAs]]
 - Chemometec training
+- ELISAs
+- how to decide if we should use magnetic cell separation of FACS to isolate cells
 
 
 # Mol Bio
@@ -47,14 +46,11 @@ tags::
 - the HER2 protein and pathway
 - the 5 properties of genetic codes
 - tRNAs and ribosomes
-- probes and plotting techniques in molecular biology
 - membrane tyrosine kinase
 - [[./ion channels|ion channels]]
 - Troubleshooting Checkpoints for Cloning
 - Restriction Cloning
 - Identifying quality of DNA prep on structureed
-- ICM - Assistante Ingénieur
-- [[./ELISAs|ELISAs]]
 - [[./Designing PCR Primers|Designing PCR Primers]]
 - [[./DNA replication is a semiconservative process|DNA replication is a semiconservative process]]
 - Chargaff’s Rule
@@ -63,6 +59,9 @@ tags::
 - BCMB 412 Test 2 Study Guide
 - BCMB 412 TEST 1 Study Guide
 - BCMB 412 Final Exam Study Guide
+- probes and plotting techniques in molecular biology
+- ICM - Assistante Ingénieur
+- ELISAs
 
 # Primers
 Primers, aka oligonucleotides (oligos), are key in DNA synthesis. They're small pieces of single-stranded nucleotides, around 5-22 bps in length. Primers must be complementary to DNA strands, which "prime" the strands to allow DNA polymerase to bind and start DNA synthesis
@@ -88,8 +87,6 @@ There are DNA and RNA primers, and DNA primers are used in experiments because t
 * [gibco-neurobiology-protocol-handbook.pdf](https://assets.thermofisher.com/TFS-Assets/BID/Handbooks/gibco-neurobiology-protocol-handbook.pdf)
 
 # Experimental Methods
-* [[./ELISAs|ELISAs]]
+* ELISAs
 * pbmcs are a source of diagnostic and prognostic biomarkers
 * Meso Scale Discovery: similar to ELISA, but higher sensitivity, larger detection range, and still efficient at low volume samples. Also has minimized matrix effect, which helps with simultaneous multiplex detection with high precision.
-* Digital PCR:
-* Multiplexing: 
