@@ -5,15 +5,14 @@ tags:
   - purpose
   - happiness
 created: 30-10-2024
-last-modified: 14-01-2025
+last-modified: 18-01-2025
 ---
-**Related**: [[./25 Lies Twentysomethings Need to Stop Believing by Paul Angone|25 Lies Twentysomethings Need to Stop Believing by Paul Angone]]
+**Related**: 25 Lies Twentysomethings Need to Stop Believing by Paul Angone
 
 ---
 
 > [!Summary] Happiness is a side-effect of purpose
 > Chasing happiness is guaranteed to make you miserable. Social media (Instagram, LinkedIn, etc.) makes it worse by shoving curated "happiness" down your throat. Choosing to be useful and to other people/a mission will bring you happiness.
-
 
 
 > [!quote] 
