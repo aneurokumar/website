@@ -27,7 +27,7 @@ find content -type f -name "*.md" | while read -r file; do
 done
 
 echo "=== Organization Summary ==="
-echo "Articles: $(find content/Articles -type f ! -name "index.md" | wc -l) files"
-echo "Book Notes: $(find content/Book Notes -type f ! -name "index.md" | wc -l) files"
-echo "Second Brain: $(find content/Second Brain -type f ! -name "index.md" | wc -l) files"
+echo "Articles: $(count_files "content/Articles") files"
+echo "Book Notes: $(count_files "content/Book Notes") files"
+echo "Second Brain: $(count_files "content/Second Brain") files"
 
