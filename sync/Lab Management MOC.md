@@ -24,6 +24,10 @@ Lab Management is a huge part of my identity and career, and is a unique blend o
 
 
 # Management
+- types of life science core facilities
+- [[./navigating-change-management-in-labs|navigating-change-management-in-labs]]
+- encoding barcodes to show text
+- cycle inventory + inventory types
 - Small Lab Process hacks
 - SOP organization for labs
 - Kaptitude Chemical Module
@@ -31,10 +35,6 @@ Lab Management is a huge part of my identity and career, and is a unique blend o
 - How to defrost a freezer
 - Biolabs - Lab Ops Associate
 - [[Lab Management MOC|Lab Management MOC]]
-- cycle inventory + inventory types
-- encoding barcodes to show text
-- [[./navigating-change-management-in-labs|navigating-change-management-in-labs]]
-- types of life science core facilities
 
 # Safety
 - Liquid Nitrogen Procedure
