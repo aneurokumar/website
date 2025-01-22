@@ -93,6 +93,16 @@ These are atomic notes based on my personal lecture notes. This allows me to lin
 
 | File                                                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[BNF 101 Base Informatiques\|BNF 101 Base Informatiques]]                                                                                                                             |
+| total participation vs partial participation                                                                                               |
+| linking images and urls in html                                                                                                                         |
+| formes normales - normal forms in database formalization                                                                       |
+| differences btwn oracle and postgres                                                                                                               |
+| cheat-sheet-unix-commands                                                                                                                                     |
+| cardinality-example-MCD                                                                                                                                         |
+| algorithms are a method executed step by step to resolve a problem or give a desired result |
+| Using divs and nested divs in css                                                                                                                     |
+| Unix Commands - BNF101 Test 1                                                                                                                             |
 | Programming definitions, simple and composed scheme expressions                                                         |
 | Postgre SQL is an open source relational database system                                                                       |
 | PRIMARY KEY vs FOREIGN KEY                                                                                                                                   |
@@ -115,25 +125,15 @@ These are atomic notes based on my personal lecture notes. This allows me to lin
 | 2024-12-03 BDD + R - session 1                                                                                                                           |
 | 2024-11-12 SQL L5                                                                                                                                                     |
 | 2024-10-29 SQL L3                                                                                                                                                     |
-| 2024-10-15 BDD Lecture 6                                                                                                                                       |
 | 2024-10-22 SQL L2                                                                                                                                                     |
+| 2024-10-15 BDD Lecture 6                                                                                                                                       |
 | 2024-10-07 Unix Lecture 4                                                                                                                                     |
 | 2024-10-01 BDD Lecture 3                                                                                                                                       |
 | 2024-09-30 Unix Lecture 3                                                                                                                                     |
 | 2024-09-24 BDD Lecture 2                                                                                                                                       |
-| 2024-09-17 BDD Lecture 1                                                                                                                                       |
 | 2024-09-23 Unix Lecture 2                                                                                                                                     |
+| 2024-09-17 BDD Lecture 1                                                                                                                                       |
 | 2024-09-16 Unix Lecture 1                                                                                                                                     |
-| Unix Commands - BNF101 Test 1                                                                                                                             |
-| Using divs and nested divs in css                                                                                                                     |
-| algorithms are a method executed step by step to resolve a problem or give a desired result |
-| cardinality-example-MCD                                                                                                                                         |
-| cheat-sheet-unix-commands                                                                                                                                     |
-| differences btwn oracle and postgres                                                                                                               |
-| formes normales - normal forms in database formalization                                                                       |
-| linking images and urls in html                                                                                                                         |
-| total participation vs partial participation                                                                                               |
-| [[BNF 101 Base Informatiques\|BNF 101 Base Informatiques]]                                                                                                                             |
 
 
 ## Other references
