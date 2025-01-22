@@ -7,7 +7,7 @@ tags:
 created: 30-12-2024
 last-modified: 31-12-2024
 ---
-**Related:** [[../01_Maps/Lab Management MOC|Lab Management MOC]], Hardwater into dishwasher and milliq machine ruining machines
+**Related:** [[./Lab Management MOC|Lab Management MOC]], Hardwater into dishwasher and milliq machine ruining machines
 
 ---
 > **Summary**
@@ -29,7 +29,7 @@ Separation of water molecules from other substances using a semi-permeable membr
 
 > Osmosis is the diffusion of water down the concentration gradients/membranes, so reverse osmosis is just separating the water from other ions.
 
-![[../how milliq water systems produce pure, laboratory grade water-1.png|how milliq water systems produce pure, laboratory grade water-1.png]]
+![[./how milliq water systems produce pure, laboratory grade water-1.png|how milliq water systems produce pure, laboratory grade water-1.png]]
 
 [picture source - Science Facts](https://www.sciencefacts.net/reverse-osmosis.html)
 
@@ -48,13 +48,13 @@ Now the negative ions (anions) are absorbed into the anion exchange material, an
 
 What flows out of this now is ion-free water. The H+ ions and the OH- ions form together to make water (H2O) that's not different from the way they were produced (besides now being contaminant and ion free, whereas the water at the beginning was neither!)
 
-![[../milliq water and why it's important in labs-1.png|milliq water and why it's important in labs-1.png]]
+![[./milliq water and why it's important in labs-1.png|milliq water and why it's important in labs-1.png]]
 [picture source - APEC WATER](https://www.freedrinkingwater.com/blogs/water-health/49-water-di-process#:~:text=Among%20all%20common%20water%20filtration%20methods%2C%20the%20process,to%20effect%20the%20removal%20of%20all%20salt%20content )
 
 **UV Irradiation**
 The water from step 2 is pumped through a tube or new chamber, past a UV light. The UV light kills UV-sensitive microorganisms (like Viruses and bacteria), and exits through the dispenser, purified.
 
-![[../how milliq water gets pure enough for laboratory use-1.png|how milliq water gets pure enough for laboratory use-1.png]]
+![[./how milliq water gets pure enough for laboratory use-1.png|how milliq water gets pure enough for laboratory use-1.png]]
 
 
 ## references/links

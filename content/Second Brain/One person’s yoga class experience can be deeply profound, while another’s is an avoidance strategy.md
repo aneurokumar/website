@@ -10,7 +10,7 @@ tags:
 
 20240321 @ 1742 | aneurokumar@gmail.com
 up:: Feminism MOC
-X:: [[../06_Library/Real Self Care by Pooja Lakshman|Real Self Care by Pooja Lakshman]]
+X:: [[./Real Self Care by Pooja Lakshman|Real Self Care by Pooja Lakshman]]
 
 > **Summary**
 > summary

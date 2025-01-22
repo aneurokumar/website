@@ -20,48 +20,48 @@ tags::
 
 
 # Cell Bio
-- A Beginner’s Guide to Cell Culture
-- while antibiotics are convenient, strict aeseptic techniques produce consistently reliable cell culture data
-- three types of cell lines - finite, continuous or immortalized, and stem cell lines
-- the potential of bio hacking in self-directed apoptosis
-- software FloJo popular for analyzing flow cytometry data
-- single-cell sequencing and its use in drug development
-- proliferation assays and common issues with pbmcs
-- pbmcs are a source of diagnostic and prognostic biomarkers
-- cytotoxicity assays and common issues with pbmcs
-- cytokine production assays and their common issues
-- cell isolation, cell separation, and cell sorting can be used for different purposes but are very related
-- cancer at a cellular level
 - Small Lab Process hacks
-- Chemometec training
 - ELISAs
+- Chemometec training
+- cancer at a cellular level
+- cell isolation, cell separation, and cell sorting can be used for different purposes but are very related
+- cytokine production assays and their common issues
+- cytotoxicity assays and common issues with pbmcs
 - how to decide if we should use magnetic cell separation of FACS to isolate cells
+- pbmcs are a source of diagnostic and prognostic biomarkers
+- proliferation assays and common issues with pbmcs
+- single-cell sequencing and its use in drug development
+- software FloJo popular for analyzing flow cytometry data
+- the potential of bio hacking in self-directed apoptosis
+- three types of cell lines - finite, continuous or immortalized, and stem cell lines
+- while antibiotics are convenient, strict aeseptic techniques produce consistently reliable cell culture data
+- A Beginner’s Guide to Cell Culture
 
 
 # Mol Bio
-- How to Adapt Centrifuge Time for Protocols
-- [[../04_Perma Notes/Using Snapgene for plasmids and cloning|Using Snapgene for plasmids and cloning]]
-- why use a fluorometer instead of a spectrophotometer
-- the VGEF protein and its molecular pathway
-- the HER2 protein and pathway
-- the 5 properties of genetic codes
-- tRNAs and ribosomes
-- membrane tyrosine kinase
-- [[../03_Ideas/ion channels|ion channels]]
-- Troubleshooting Checkpoints for Cloning
 - Restriction Cloning
 - Identifying quality of DNA prep on structureed
-- [[../03_Ideas/Designing PCR Primers|Designing PCR Primers]]
-- [[../03_Ideas/DNA replication is a semiconservative process|DNA replication is a semiconservative process]]
+- ICM - Assistante Ingénieur
+- ELISAs
+- [[./Designing PCR Primers|Designing PCR Primers]]
+- [[./DNA replication is a semiconservative process|DNA replication is a semiconservative process]]
 - Chargaff’s Rule
+- [[./Acridine orange|Acridine orange]]
+- Troubleshooting Checkpoints for Cloning
 - BCMB 412 Test 3 Study Guide
 - BCMB 412 Test 2 Study Guide
 - BCMB 412 TEST 1 Study Guide
 - BCMB 412 Final Exam Study Guide
+- [[./ion channels|ion channels]]
+- membrane tyrosine kinase
 - probes and plotting techniques in molecular biology
-- ICM - Assistante Ingénieur
-- ELISAs
-- [[../03_Ideas/Acridine orange|Acridine orange]]
+- tRNAs and ribosomes
+- the 5 properties of genetic codes
+- the HER2 protein and pathway
+- the VGEF protein and its molecular pathway
+- why use a fluorometer instead of a spectrophotometer
+- [[./Using Snapgene for plasmids and cloning|Using Snapgene for plasmids and cloning]]
+- How to Adapt Centrifuge Time for Protocols
 
 # Primers
 Primers, aka oligonucleotides (oligos), are key in DNA synthesis. They're small pieces of single-stranded nucleotides, around 5-22 bps in length. Primers must be complementary to DNA strands, which "prime" the strands to allow DNA polymerase to bind and start DNA synthesis
@@ -81,7 +81,7 @@ There are DNA and RNA primers, and DNA primers are used in experiments because t
 * Viability:
 	* **longer shelf-life, more stable**
 	* ***shorter life, more reactive*
-* [[../03_Ideas/Designing PCR Primers|Designing PCR Primers]]
+* [[./Designing PCR Primers|Designing PCR Primers]]
 
 # Neurobiology
 * [gibco-neurobiology-protocol-handbook.pdf](https://assets.thermofisher.com/TFS-Assets/BID/Handbooks/gibco-neurobiology-protocol-handbook.pdf)

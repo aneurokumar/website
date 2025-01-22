@@ -12,7 +12,7 @@ last-modified: 2025-01-22
 
 ---
 
-![[../obsessed-young-heroes-1.png|500]]
+![[./obsessed-young-heroes-1.png|500]]
 `photo by Sushil Nash on Unplash`
 
 We’re weirdly obsessed with young heroes.

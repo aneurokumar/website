@@ -7,7 +7,7 @@ tags:
 created: 12-11-2024
 last-modified: 14-01-2025
 ---
-**Related**: [[../01_Maps/Programming MOC|Programming MOC]]
+**Related**: [[./Programming MOC|Programming MOC]]
 
 ---
 **Homebrew** is a [free](https://en.wikipedia.org/wiki/Free_software "Free software") and [open-source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") software [package management system](https://en.wikipedia.org/wiki/Package_manager "Package manager") that simplifies the installation of software on [Apple's](https://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.") operating system, [macOS](https://en.wikipedia.org/wiki/MacOS "MacOS"), as well as [Linux](https://en.wikipedia.org/wiki/Linux "Linux"). The name is intended to suggest the idea of building software on the Mac depending on the user's taste.

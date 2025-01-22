@@ -85,9 +85,9 @@ You don't need to be a physicist to have twelve favorite problems. Here are some
 
 
 ## Raw Notes
-- [[../03_Ideas/Second Brain|second-brain]]
-- we spend many hours every day within digital environments
 - quartz-to-do-note
+- [[./second-brain|second-brain]]
+- we spend many hours every day within digital environments
 
 
 ## Other great summaries about this book

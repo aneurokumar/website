@@ -8,7 +8,7 @@ tags:
 created: 12-11-2024
 last-modified: 20-01-2025
 ---
-**Related**: [[../01_Maps/Biological Science MOC|Biological Science MOC]], [[./ion channels|ion channels]]
+**Related**: [[./Biological Science MOC|Biological Science MOC]], [[./ion channels|ion channels]]
 
 ---
 > **Summary**

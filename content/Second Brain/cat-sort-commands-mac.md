@@ -7,7 +7,7 @@ tags:
 created: 01-12-2024
 last-modified: 26-12-2024
 ---
-**Related:** BNF 101 Unix Test Cheat Sheet
+**Related:** cheat-sheet-unix-commands
 
 > **Summary**
 > Made this because noticed some commands are different on mac (what I use), but still need to study the commands on a Linux/Windows machine for my unix class

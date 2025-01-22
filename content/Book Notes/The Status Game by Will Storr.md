@@ -105,9 +105,9 @@ male, grandiose, and humiliated is a terrifying trifecta
 
 
 ## Big Ideas
-- [[../03_Ideas/Book Notes|book-notes-home]]
+- [[./book-notes-home|book-notes-home]]
 - health changes in lockstep with status
-- [[../03_Ideas/solid face-to-face relationships is the key to surviving and thriving in old age|solid face-to-face relationships is the key to surviving and thriving in old age]]
+- [[./solid face-to-face relationships is the key to surviving and thriving in old age|solid face-to-face relationships is the key to surviving and thriving in old age]]
 - we desire worth, acclaim, and to be of value
 - when freedom means expulsion from the meaning you've spent your life making, then freedom is hell
 - [[./The Science of Storytelling by Will Storr|The Science of Storytelling by Will Storr]]

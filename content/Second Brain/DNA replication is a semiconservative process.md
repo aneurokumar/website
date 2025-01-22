@@ -8,7 +8,7 @@ tags:
 created: 21-10-2024
 last-modified: 30-12-2024
 ---
-**Related**: [[../01_Maps/Biological Science MOC|Biological Science MOC]], BCMB 412 Advanced Molecular Biology and Genomics
+**Related**: [[./Biological Science MOC|Biological Science MOC]], BCMB 412 Advanced Molecular Biology and Genomics
 
 ---
 
@@ -19,7 +19,7 @@ When replicating, double stranded DNA will dissociate to individual strands (not
 
 Since each complement is synthesized on an individual strand of the original DNA, the two new DNA molecules will each contain an individual strand from the original (parent) and a newly synthesized complement to the original.
 
-![[../DNA replication is a semiconservative process2024-12_26.png|DNA replication is a semiconservative process2024-12_26.png]]  
+![[./DNA replication is a semiconservative process2024-12_26.png|DNA replication is a semiconservative process2024-12_26.png]]  
 `photo from [Modes of DNA Replication](https://www.mun.ca/biology/scarr/iGen3_03-01.html)`
 
 The Meselson-Stahl experiment demonstrated DNA's semiconservative replication by tracking nitrogen isotopes through generations of DNA replication. 

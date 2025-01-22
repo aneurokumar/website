@@ -17,9 +17,9 @@ Looking for fiction? Those can be found in my Literature MOC!
 
 ## Books sorted by topic
 
-[[../06_Library/Think Like a Monk by Jay Shetty|Think Like a Monk by Jay Shetty]]
-[[../06_Library/Real Self Care by Pooja Lakshman|Real Self Care by Pooja Lakshman]]
-[[../06_Library/The Status Game by Will Storr|The Status Game by Will Storr]]
+[[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]]
+[[./Real Self Care by Pooja Lakshman|Real Self Care by Pooja Lakshman]]
+[[./The Status Game by Will Storr|The Status Game by Will Storr]]
 
 
 ## references/links

@@ -15,7 +15,7 @@ last-modified: 2025-01-12
 > A 5-class professional certificate in Bioinformatics from the Conservatoire des Arts et Métiers, designed for biologists to get practical skills in IT basics, coding practices, Algorithms, and biostatistics.
 
 # Courses
-* [[../04_Perma Notes/BNF 101 Base Informatiques|BNF 101 Base Informatiques]]
+* [[./BNF 101 Base Informatiques|BNF 101 Base Informatiques]]
 * BNF 102 Initation à la programmation
 * BNF103-PAR Bioinformatics Algorithims
 * BNF 104

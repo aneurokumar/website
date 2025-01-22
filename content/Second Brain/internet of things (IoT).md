@@ -7,7 +7,7 @@ tags:
 created: 2025-01-16
 last-modified: 2025-01-16
 ---
-**Related:** [[../01_Maps/Programming MOC|Programming MOC]]
+**Related:** [[./Programming MOC|Programming MOC]]
 
 ---
 Internet of Things (iot) is a system that allows machines to connect and share data with other machines through special modules or add-ons, whereas previously they couldn't!

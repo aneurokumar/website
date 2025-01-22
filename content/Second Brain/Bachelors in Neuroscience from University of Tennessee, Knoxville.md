@@ -9,7 +9,7 @@ tags:
 created: 27-12-2024
 last-modified: 14-01-2025
 ---
-**Related:** [[../01_Maps/Biological Science MOC|Biological Science MOC]], Psychlogy MOC
+**Related:** [[./Biological Science MOC|Biological Science MOC]], Psychlogy MOC
 
 ---
 
@@ -22,7 +22,7 @@ last-modified: 14-01-2025
 - BCMB 412 Advanced Molecular Biology and Genomics
 - BCMB 415 Foundations of Neurobiology
 - PSYC 410 Sensory Processes and Perception
-- [[./Home|index]]
+- [[./index|index]]
 - quartz-to-do-note
 
 # Notes to import

@@ -5,7 +5,7 @@ tags:
 created: 2024-12-30
 last-modified: 2025-01-12
 ---
-**Related:** [[../01_Maps/Programming MOC|Programming MOC]], [[../04_Perma Notes/BNF 101 Base Informatiques|BNF 101 Base Informatiques]]  
+**Related:** [[./Programming MOC|Programming MOC]], [[./BNF 101 Base Informatiques|BNF 101 Base Informatiques]]  
 
 ---
 

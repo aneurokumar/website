@@ -6,7 +6,7 @@ tags:
 created: 29-12-2022
 last-modified: 23-12-2024
 ---
-**Related**: [[../06_Library/Think Like a Monk by Jay Shetty|Think Like a Monk by Jay Shetty]], Personal Development MOC
+**Related**: [[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]], Personal Development MOC
 
 ---
 you assume that the love you give someone will come back from there in the same form.

@@ -7,7 +7,7 @@ tags:
 created: 05-12-2024
 last-modified: 07-12-2024
 ---
-**Related:** [[../01_Maps/Programming MOC|Programming MOC]]
+**Related:** [[./Programming MOC|Programming MOC]]
 
 ---
 

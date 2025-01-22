@@ -8,7 +8,7 @@ tags:
 created: 01-01-2025
 last-modified: 18-01-2025
 ---
-**Related:** [[../02_Projects/Quartz Build and Changelog|Quartz Build and Changelog]]
+**Related:** [[./quartz-website-project-notes|quartz-website-project-notes]]
 
 ---
 
@@ -71,8 +71,8 @@ if (fileData.dates) {
 
 Now all the pages have their dates updated!!
 
-Example screenshot showing for the note [[./The "perfom at 80%" rule is key to mastering any skill you want|The "perfom at 80%" rule is key to mastering any skill you want]].
+Example screenshot showing for the note [[./perform-at-80-percent-to-master-skills|perform-at-80-percent-to-master-skills]].
 
-![[../updating date format for files in javascript2025-01_12.png|updating date format for files in javascript2025-01_12.png]]
+![[./updating date format for files in javascript2025-01_12.png|updating date format for files in javascript2025-01_12.png]]
 
 

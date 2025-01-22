@@ -15,7 +15,7 @@ Go to the desired paper with available data - check on the right-hand side for a
 **checking for meta-data**
 There should be a place to download ALL the data, but then also a table which describes where the data is coming from. For example a table that lists all of the samples, whether they are normal controls or have a disease, meta-data about the dataset, and the separate FASTQ files
 
-| ![[../how to download bioinformatics data example - FASTq files from scRNA-seq2024-11_01.png\|250]] | ![[../how to download bioinformatics data example - FASTq files from scRNA-seq2024-11_01-1.png\|250]] |
+| ![[./how to download bioinformatics data example - FASTq files from scRNA-seq2024-11_01.png\|250]] | ![[./how to download bioinformatics data example - FASTq files from scRNA-seq2024-11_01-1.png\|250]] |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 **downloading data to a remote server via a terminal**
 * open terminal

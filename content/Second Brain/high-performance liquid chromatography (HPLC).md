@@ -16,7 +16,7 @@ The workflow of the HPLC can be separated into two large sections: flow phase an
 
 In order for this the work, the stuff you want to quantify needs to have different affinities in the stationary phase. When it passes through the column, they should "travel" through various lengths of the column.
 
-![[../high-performance liquid chromatography (HPLC)2025-01_14.png|500]]
+![[./high-performance liquid chromatography (HPLC)2025-01_14.png|500]]
 
 # the five-ish parts to an HPLC workflow
 Here's the overall path of the HPLC
@@ -28,7 +28,7 @@ Here's the overall path of the HPLC
 	* treat the liquid waste with caution - especially if you've used potentially dangerous samples or treatments!
 
 
-![[../high-performance liquid chromatography (HPLC)2025-01_14-1.png|high-performance liquid chromatography (HPLC)2025-01_14-1.png]]
+![[./high-performance liquid chromatography (HPLC)2025-01_14-1.png|high-performance liquid chromatography (HPLC)2025-01_14-1.png]]
 
 ## references/links
 * [Principes fondamentaux de la HPLC \| Thermo Fisher Scientific - FR](https://www.thermofisher.com/fr/en/home/industrial/chromatography/chromatography-learning-center/liquid-chromatography-information/hplc-basics.html)

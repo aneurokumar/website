@@ -8,7 +8,7 @@ tags:
 created: 14-01-2025
 last-modified: 14-01-2025
 ---
-**Related:** [[../01_Maps/Biological Science MOC|Biological Science MOC]]
+**Related:** [[./Biological Science MOC|Biological Science MOC]]
 
 ---
 
@@ -24,7 +24,7 @@ Edman degradation = amino acids in a polypeptide/protein chain are taken off one
 	* **potential solution:** you can try to digest the protein with a protease *and then* sequence it. this could leave off a bit of the end of the peptide chain/some amino acids, though it might be better than nothing
 
 
-![[../edman degradation is the principle behind HPLCs and protein identification2025-01_14.png|edman degradation is the principle behind HPLCs and protein identification2025-01_14.png]]
+![[./edman degradation is the principle behind HPLCs and protein identification2025-01_14.png|edman degradation is the principle behind HPLCs and protein identification2025-01_14.png]]
 
 
 ## references/links

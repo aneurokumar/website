@@ -8,7 +8,7 @@ tags:
 created: 04-04-2024
 last-modified: 20-01-2025
 ---
-**Related**: [[../06_Library/The Status Game by Will Storr|The Status Game by Will Storr]], health changes in lockstep with status
+**Related**: [[./The Status Game by Will Storr|The Status Game by Will Storr]], health changes in lockstep with status
 
 ---
 

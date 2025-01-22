@@ -14,7 +14,7 @@ last-modified: 31-12-2024
 
 
 Water purity comparison ([source](https://www.yasa.ltd/post/ultrapure-deionized-ro-distilled-and-double-distilled-waters-what-is-the-difference))
-![[../what kind of water to use for equipments-1.png|what kind of water to use for equipments-1.png]]
+![[./what kind of water to use for equipments-1.png|what kind of water to use for equipments-1.png]]
 
 MilliQ water (de-ionized water) will leach metal ions from equipment, and will cause the metal to corrode much quicker.
 

@@ -7,7 +7,7 @@ tags:
 created: 21-12-2024
 last-modified: 30-12-2024
 ---
-**Related:** [[../01_Maps/Biological Science MOC|Biological Science MOC]]
+**Related:** [[./Biological Science MOC|Biological Science MOC]]
 
 ---
 Ion channels are trans-membrane proteins present in the lipid bilayer of cells. They form "pores" which let ions move through it into and out of the cell, which can serve different purposes. Ion channels are involved a lot in neurons/nervous system (resting membrane potential, action potential), electrical signals via gating of ions across the cell membrane.

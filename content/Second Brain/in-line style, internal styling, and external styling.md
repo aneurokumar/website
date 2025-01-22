@@ -6,7 +6,7 @@ tags:
 created: 2024-12-26
 last-modified: 2025-01-11
 ---
-**Related:** [[../01_Maps/Programming MOC|Programming MOC]], CSS Lecture 2
+**Related:** [[./Programming MOC|Programming MOC]], CSS Lecture 2
 
 ---
 

@@ -17,7 +17,7 @@ Personal Learning System + Improvement
 [Creating a personal study plan using ChatGPT](https://docs.google.com/document/d/11zUnGttjECTBj9u0YYFahoeUA0H4MotNMsdJKXbd5rM/edit?tab=t.0)
 
 **Studying**
-* Metacognition allows students to be more expert-like in their thinking and more effective and efficient in their learning
+* Metacognition-allows-students-to-be-more-expert-like-in-their-thinking-and-more-effective-and-efficient-in-their-learning
 * spaced-practice-schedule
 
 

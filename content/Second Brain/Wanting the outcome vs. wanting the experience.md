@@ -7,7 +7,7 @@ tags:
 created: 24-10-2024
 last-modified: 26-12-2024
 ---
-**Related**: [[../06_Library/Think Like a Monk by Jay Shetty|Think Like a Monk by Jay Shetty]]
+**Related**: [[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]]
 
 ---
 Pay attention to things you wish you could *do* vs things you wish you *had*. 

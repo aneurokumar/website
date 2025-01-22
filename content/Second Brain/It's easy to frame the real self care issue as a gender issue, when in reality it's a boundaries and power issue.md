@@ -7,7 +7,7 @@ tags:
   - feminism
 ---
 20240104 @ 0938 | aneurokumar@gmail.com
-up:: [[../06_Library/Real Self Care by Pooja Lakshman|Real Self Care by Pooja Lakshman]]
+up:: [[./Real Self Care by Pooja Lakshman|Real Self Care by Pooja Lakshman]]
 X:: [[./Monks don't have a an official stance on trauma, but the focus is always on healing the internal before focusing on the external|Monks don't have a an official stance on trauma, but the focus is always on healing the internal before focusing on the external]], Feminism MOC
 
 

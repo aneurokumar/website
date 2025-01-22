@@ -7,7 +7,7 @@ tags:
 created: 29-12-2022
 last-modified: 09-12-2024
 ---
-**Related**: Personal Development MOC, [[../06_Library/Think Like a Monk by Jay Shetty|Think Like a Monk by Jay Shetty]]
+**Related**: Personal Development MOC, [[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]]
 
 ---
 gratitude is not simply saying thank you, it's simply having trust. Grateful living, because you receive every moment as a gift. 

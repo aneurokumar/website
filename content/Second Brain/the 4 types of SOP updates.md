@@ -7,7 +7,7 @@ tags:
 created: 07-05-2024
 last-modified: 03-01-2025
 ---
-**Related**: [[../01_Maps/Lab Management MOC|Lab Management MOC]]
+**Related**: [[./Lab Management MOC|Lab Management MOC]]
 
 ---
 There are four types of potential SOP updates:

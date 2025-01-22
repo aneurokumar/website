@@ -20,7 +20,7 @@ Understanding broader relationships between code and the overall process. What c
 
 Collaboration
 * how will your contributions affect other people and other downstream processes?
-* coding with other people in mind: meaningful names, [[../+ Encounters/clean code|clean code]] practices, and comments
+* coding with other people in mind: meaningful names, [[./clean code|clean code]] practices, and comments
 * your code might be maintained by someone else - what can you do it make it easier for extensions or refactoring?
 
 Improve the wheel

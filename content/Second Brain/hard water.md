@@ -6,7 +6,7 @@ tags:
 created: 12-11-2024
 last-modified: 24-12-2024
 ---
-**Related**: [[../01_Maps/Lab Management MOC|Lab Management MOC]]
+**Related**: [[./Lab Management MOC|Lab Management MOC]]
 
 ---
 > **Summary**

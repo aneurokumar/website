@@ -7,7 +7,7 @@ tags:
 created: 05-12-2024
 last-modified: 24-12-2024
 ---
-**Related:** [[../01_Maps/Biological Science MOC|Biological Science MOC]], [[../01_Maps/Lab Management MOC|Lab Management MOC]]
+**Related:** [[./Biological Science MOC|Biological Science MOC]], [[./Lab Management MOC|Lab Management MOC]]
 
 ---
 

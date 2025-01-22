@@ -7,7 +7,7 @@ tags:
 created: 29-11-2024
 last-modified: 20-01-2025
 ---
-**Related:** [[../03_Ideas/Home|Home]], Obsidian MOC
+**Related:** [[./index|Home]], Obsidian MOC
 
 ---
 MOCs, or Maps of Content, is a way to group a large amount of ideas related to one another. They're like "topics," except much less restrictive, and the same idea can be linked to different MOCs. MOCs provide context for linking ideas across domains to collide in one place. 

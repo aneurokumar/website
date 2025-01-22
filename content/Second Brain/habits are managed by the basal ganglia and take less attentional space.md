@@ -8,7 +8,7 @@ tags:
 created: 2024-12-26
 last-modified: 2025-01-16
 ---
-**Related:** [[../06_Library/Hyperfocus by Chris Bailey|Hyperfocus by Chris Bailey]], [[../01_Maps/Biological Science MOC|Biological Science MOC]]
+**Related:** [[./Hyperfocus by Chris Bailey|Hyperfocus by Chris Bailey]], [[./Biological Science MOC|Biological Science MOC]]
 
 ---
 
@@ -31,7 +31,7 @@ Studies by Divac and Knorski showed that rats with lesions of basal ganglia coul
 
 
 A simplified schematic of basal ganglia connections
-![[../habits and complex tasks have different neural circuits and interact differently with attentional space2024-12_26.png|habits and complex tasks have different neural circuits and interact differently with attentional space2024-12_26.png]]
+![[./habits and complex tasks have different neural circuits and interact differently with attentional space2024-12_26.png|habits and complex tasks have different neural circuits and interact differently with attentional space2024-12_26.png]]
 
 ## references/links
 * [people.duke.edu/\~hy43/role of basal.pdf](https://people.duke.edu/~hy43/role%20of%20basal.pdf)

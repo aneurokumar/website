@@ -6,7 +6,7 @@ tags:
 created: 2024-12-04
 last-modified: 2025-01-21
 ---
-**Related:** [[../01_Maps/Biological Science MOC|Biological Science MOC]]
+**Related:** [[./Biological Science MOC|Biological Science MOC]]
 
 ---
 

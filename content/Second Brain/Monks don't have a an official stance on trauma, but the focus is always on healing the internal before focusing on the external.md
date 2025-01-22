@@ -7,7 +7,7 @@ tags:
 ---
 
 up:: Personal Development MOC
-X::  [[../06_Library/Think Like a Monk by Jay Shetty|Think Like a Monk by Jay Shetty]]
+X::  [[./Think Like A Monk by Jay Shetty|Think Like A Monk by Jay Shetty]]
 
 I feel like this can be attributed to many other things as well, like finances etc
 

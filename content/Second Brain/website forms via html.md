@@ -6,7 +6,7 @@ tags:
 created: 13-01-2025
 last-modified: 20-01-2025
 ---
-**Related:** [[../04_Perma Notes/BNF 101 Base Informatiques|BNF 101 Base Informatiques]]
+**Related:** [[./BNF 101 Base Informatiques|BNF 101 Base Informatiques]]
 
 ---
 > [!Summary] Title

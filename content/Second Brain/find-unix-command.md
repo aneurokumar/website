@@ -6,7 +6,7 @@ tags:
 created: 2024-11-30
 last-modified: 2025-01-12
 ---
-**Related:** 2024-10-07 Unix Lecture 4, exec and using it with find (unix), [[../01_Maps/Programming MOC|Programming MOC]]
+**Related:** 2024-10-07 Unix Lecture 4, exec-find-unix-command, [[./Programming MOC|Programming MOC]]
 
 > **Summary**
 > Difference between find and grep: find is used to find files in one or multiple directories, and grep is used to find content inside files.

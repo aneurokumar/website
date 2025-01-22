@@ -24,11 +24,11 @@ Foundational concepts
 > Contents
 
 **Attentional Space**
-* Attention is finite: there's a limit to how many things we can pay attention to and think about - this is your [[../03_Ideas/attentional space is limited and prone to attentional residue|attentional space]]. Certain tasks will require more attentional space than others. 
+* Attention is finite: there's a limit to how many things we can pay attention to and think about - this is your [[./attentional space is limited and prone to attentional residue|attentional space]]. Certain tasks will require more attentional space than others. 
 * Attentional Residue: "Switching gears" doesn't happen seamlessly. Some attention is still left on the previous task after we've switched to the new one, using precious attention space.
 
 **Habits vs Complex Tasks in the brain**
-* [[../03_Ideas/habits are managed by the basal ganglia and take less attentional space|Habits take a lot less attentional space to execute]]. Habit-based tasks are managed more by the basil ganglia (motor/movement habits, while the PFC manages more cognition-heavy tasks
+* [[./habits are managed by the basal ganglia and take less attentional space|Habits take a lot less attentional space to execute]]. Habit-based tasks are managed more by the basil ganglia (motor/movement habits, while the PFC manages more cognition-heavy tasks
 * Multitasking can work under very specific conditions. You can't exceed the capacity of the attentional space.
 * Combinations of tasks that fit into the attentional space:
 	* few, small habit-based tasks
@@ -39,7 +39,7 @@ Foundational concepts
 * Intention protects attention by keeping distractions out and gives you a goal to come back to during the session
 * Getting distracted is human - bring your attention back when you notice it drifting
 * Being aware of what we're thinking about can improve our problem-solving. Observing our thoughts (without judgement - mindfulness) can temporarily expand our attentional space.
-	* [[../03_Ideas/Meditation can expand our attentional space|Meditation can expand our attentional space]]
+	* [[./Meditation can expand our attentional space|Meditation can expand our attentional space]]
 Self-Experiments
 * Keep a journal and write down all the things that have distracted you during the day. [Interstitial journaling](https://nesslabs.com/interstitial-journaling) method.
 
@@ -58,12 +58,12 @@ Self-Experiments
 ## Connections
 - How to set intentions that lead to productive hyperfocus and a sense of accomplishment
 - Using caffeine for hyperfocus is more effective
-- [[../03_Ideas/attentional space is limited and prone to attentional residue|attentional space is limited and prone to attentional residue]]
+- [[./attentional space is limited and prone to attentional residue|attentional space is limited and prone to attentional residue]]
 - collect dots to connect them later
 - consuming information with intention
-- [[../03_Ideas/habits are managed by the basal ganglia and take less attentional space|habits are managed by the basal ganglia and take less attentional space]]
+- [[./habits are managed by the basal ganglia and take less attentional space|habits are managed by the basal ganglia and take less attentional space]]
 - habitual scatterfocus helps you creatively connect dots
-- [[../03_Ideas/ritualize hyperfocus as a habit|ritualize hyperfocus as a habit]]
+- [[./ritualize hyperfocus as a habit|ritualize hyperfocus as a habit]]
 
 ## Interesting Quotes
 

@@ -8,7 +8,7 @@ tags:
 created: 06-12-2024
 last-modified: 24-12-2024
 ---
-**Related**: [[../05_External Resources/Navigating change management in labs|Navigating change management in labs]]
+**Related**: [[./navigating-change-management-in-labs|navigating-change-management-in-labs]]
 
 ---
 > [!summary] Main Idea
@@ -22,7 +22,7 @@ Resistance doesn't look the same for everyone. It's commonly expressed in one of
 Ignoring user resistance is NEVER the solution!! If you ignore it, you risk facing long term consequences anywhere from reduced quality/productivity to hostile working environment. *People don't trust leaders who can't prepare an organization for change.*
 
 Here are some examples of the consequences if you ignore user resistance.
-![[../Pasted image 20230904152504.png|Pasted image 20230904152504.png]]
+![[./Pasted image 20230904152504.png|Pasted image 20230904152504.png]]
 
 There are ways to shorten and lessen the impact of this reaction - most of it boils down to these points:
 * open and consistent communication

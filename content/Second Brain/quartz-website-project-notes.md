@@ -7,7 +7,7 @@ tags:
 created: 2024-11-19
 last-modified: 2025-01-21
 ---
-**Related:** Obsidian MOC, [[../01_Maps/Programming MOC|Programming MOC]], Career Development & Business MOC
+**Related:** Obsidian MOC, [[./Programming MOC|Programming MOC]], Career Development & Business MOC
 
 ---
 # Build V2.0
@@ -122,7 +122,7 @@ plugins: {
 ```
 
 ### added last-modified to content, changed identifiers, coerceDate to handle DD-MM-YYYY format
-I wanted to use my yaml `last-modified` to show the last time I interacted with the note. I realized some of my notes were in the wrong format (DD-MM-YYYY), so I updated my Linter plugin to now update them in YYYY-MM-DD format. [[../03_Ideas/updating date format for files in javascript|I changed the coerceDate function to handle any DD-MM-YYYY dates while I make the changes.]]
+I wanted to use my yaml `last-modified` to show the last time I interacted with the note. I realized some of my notes were in the wrong format (DD-MM-YYYY), so I updated my Linter plugin to now update them in YYYY-MM-DD format. [[./updating date format for files in javascript|I changed the coerceDate function to handle any DD-MM-YYYY dates while I make the changes.]]
 
 **added "modified" component w/custom naming**
 ```

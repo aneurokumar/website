@@ -12,10 +12,10 @@ X::
 # 📚Real Self Care by Pooja Lakshman
 
 ## Big Ideas
-- [[../03_Ideas/It's easy to frame the real self care issue as a gender issue, when in reality it's a boundaries and power issue|It's easy to frame the real self care issue as a gender issue, when in reality it's a boundaries and power issue]]
-- [[../03_Ideas/One person’s yoga class experience can be deeply profound, while another’s is an avoidance strategy|One person’s yoga class experience can be deeply profound, while another’s is an avoidance strategy]]
-- [[../03_Ideas/Book Notes|book-notes-home]]
-- [[../03_Ideas/gratitude is not just toxic positivity - it's about digestion|gratitude is not just toxic positivity - it's about digestion]]
+- [[./It's easy to frame the real self care issue as a gender issue, when in reality it's a boundaries and power issue|It's easy to frame the real self care issue as a gender issue, when in reality it's a boundaries and power issue]]
+- [[./One person’s yoga class experience can be deeply profound, while another’s is an avoidance strategy|One person’s yoga class experience can be deeply profound, while another’s is an avoidance strategy]]
+- [[./book-notes-home|book-notes-home]]
+- [[./gratitude is not just toxic positivity - it's about digestion|gratitude is not just toxic positivity - it's about digestion]]
 
 
 ## Interesting Quotes

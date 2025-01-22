@@ -5,7 +5,7 @@ tags:
 created: 15-01-2025
 last-modified: 15-01-2025
 ---
-**Related:** [[../01_Maps/Programming MOC|Programming MOC]], Concepts MOC
+**Related:** [[./Programming MOC|Programming MOC]], Concepts MOC
 
 ---
 

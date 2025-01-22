@@ -9,7 +9,7 @@ tags:
 last-modified: 2025-01-16
 created: 2024-11-05
 ---
-**Related**: [[../06_Library/Hyperfocus by Chris Bailey|Hyperfocus by Chris Bailey]]
+**Related**: [[./Hyperfocus by Chris Bailey|Hyperfocus by Chris Bailey]]
 
 ---
 
