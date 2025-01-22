@@ -40,8 +40,8 @@ jobs:
           find content/"Book Notes" -type f ! -name "index.md" -delete || true
           find content/"Second Brain" -type f ! -name "index.md" -delete || true
 
-      - name: Copy files from website to content
-        run: cp -r website/* content/
+      - name: Copy files from sync to content
+        run: cp -r sync/* content/
 
       - name: Create and run organization script
         run: |
