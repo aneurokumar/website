@@ -86,12 +86,12 @@ jobs:
       - name: Commit and push changes
         run: |
           git add -A content/
-          if git diff --staged --quiet; then
-              echo "No changes to commit"
-          else
+          if ! git diff --staged --quiet; then
               git commit -m "Move and organize content files"
               git pull --rebase origin v4
               git push origin v4
+          else 
+              echo "No changes to commit"
           fi
 
 
