@@ -5,10 +5,10 @@ tags:
   - javascript
   - programming
   - 3xp
-created: 2025-01-01
-last-modified: 2025-01-01
+created: 01-01-2025
+last-modified: 18-01-2025
 ---
-**Related:** quartz-website-project-notes
+**Related:** [[./quartz-website-project-notes|quartz-website-project-notes]]
 
 ---
 
@@ -66,5 +66,13 @@ if (fileData.dates) {
 ```
 # Product
 
-## references/links
-* 
+> [!Success] Success!
+> 
+
+Now all the pages have their dates updated!!
+
+Example screenshot showing for the note [[./perform-at-80-percent-to-master-skills|perform-at-80-percent-to-master-skills]].
+
+![[./updating date format for files in javascript2025-01_12.png|updating date format for files in javascript2025-01_12.png]]
+
+

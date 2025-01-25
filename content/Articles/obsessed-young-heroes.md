@@ -3,8 +3,8 @@ public: true
 title: Why Are We Obsessed with Young Heroes?
 tags:
   - article
-created: 05-12-2024
-last-modified: 24-12-2024
+created: 2024-12-05
+last-modified: 2025-01-22
 ---
 # Why Are We Obsessed with Young Heroes?
  “Chosen Ones” by Veronica Roth shows exactly how we’d treat young protagonists after winning “The Final Battle.”
@@ -63,7 +63,7 @@ Young achievers are more likely to be burned out and make achieving things, or i
 
 # Conclusion
 
-When you read The Chosen Ones, you believe that no one in our world would never do such a thing to young kids. We would support them, we would rehabilitate them, we would do everything in our power to help them succeed.
+When you read The Chosen Ones, you believe that no one in our world would ever do such a thing to young kids. We would support them, we would rehabilitate them, we would do everything in our power to help them succeed.
 
 But the world never stays saved.
 

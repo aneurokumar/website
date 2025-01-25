@@ -14,4 +14,5 @@ last-modified: 26-12-2024
 
 ## Big Ideas
 - Don't be a hero-maker
+- male, grandiose, and humiliated is a terrifying trifecta
 

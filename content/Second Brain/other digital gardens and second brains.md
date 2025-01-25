@@ -5,8 +5,8 @@ tags:
   - obsidian
   - community
   - writing
-created: 26-12-2024
-last-modified: 26-12-2024
+created: 2024-12-26
+last-modified: 2025-01-21
 ---
 **Related:** Obsidian MOC
 
@@ -18,6 +18,7 @@ last-modified: 26-12-2024
 **Digital Gardens**
 [be-far's Digital Garden](https://be-far.com/)
 [Fork My Brain - Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
+
 * Love her Youtube channel!
 
 

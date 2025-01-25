@@ -31,7 +31,7 @@ Large calcium deposits in boilers/pipes decrease heating efficiency, and can cau
 
 ## Water softening
 * Washing soda - used in household laundry (sodium carbonate) with soap/detergent
-* ion-exchange resins - replace Ca2+ ions by twice the number of sodium/potassium ions (mono cations). similar to sodium-potassium pumps
+* ion-exchange resins - replace Ca2+ ions by twice the number of sodium/potassium ions (mono cations). similar to [[./sodium-potassium pumps|sodium-potassium pumps]]
 
 
 

@@ -7,7 +7,7 @@ tags:
 created: 2024-10-10
 last-modified: 2025-01-01
 ---
-**Related**: [[./Identity MOC|Identity MOC]]
+**Related**: Identity MOC
 
 > **Summary**
 > I wrote this in May 2021, and it's one of the few articles I've written that I'm really, really proud of.

@@ -7,7 +7,7 @@ tags:
 created: 26-12-2024
 last-modified: 26-12-2024
 ---
-**Related:** attentional space is limited and prone to attentional residue
+**Related:** [[./attentional space is limited and prone to attentional residue|attentional space is limited and prone to attentional residue]]
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 created: 17-08-2023
-last-modified: 30-12-2024
+last-modified: 20-01-2025
 public: true
 ---
 
@@ -32,10 +32,9 @@ tags::
 - cytotoxicity assays and common issues with pbmcs
 - cytokine production assays and their common issues
 - cell isolation, cell separation, and cell sorting can be used for different purposes but are very related
-- cancer cell lines
 - cancer at a cellular level
 - Small Lab Process hacks
-- [[./ELISAs|ELISAs]]
+- ELISAs
 - Chemometec training
 
 
@@ -54,7 +53,7 @@ tags::
 - Restriction Cloning
 - Identifying quality of DNA prep on structureed
 - ICM - Assistante Ingénieur
-- [[./ELISAs|ELISAs]]
+- ELISAs
 - [[./Designing PCR Primers|Designing PCR Primers]]
 - [[./DNA replication is a semiconservative process|DNA replication is a semiconservative process]]
 - Chargaff’s Rule
@@ -88,8 +87,6 @@ There are DNA and RNA primers, and DNA primers are used in experiments because t
 * [gibco-neurobiology-protocol-handbook.pdf](https://assets.thermofisher.com/TFS-Assets/BID/Handbooks/gibco-neurobiology-protocol-handbook.pdf)
 
 # Experimental Methods
-* [[./ELISAs|ELISAs]]
+* ELISAs
 * pbmcs are a source of diagnostic and prognostic biomarkers
 * Meso Scale Discovery: similar to ELISA, but higher sensitivity, larger detection range, and still efficient at low volume samples. Also has minimized matrix effect, which helps with simultaneous multiplex detection with high precision.
-* Digital PCR:
-* Multiplexing: 

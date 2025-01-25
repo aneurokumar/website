@@ -9,13 +9,21 @@ tags:
   - neuroscience
   - psychology
 created: 04-04-2024
-last-modified: 09-12-2024
+last-modified: 20-01-2025
 ---
 **Related**: The 48 Laws of Power by Robert Greene
 
 ---
 # 📚 The Status Game by Will Storr
-## Chapter Notes
+## Overall review
+* I really enjoy Will Storr's writing style, and devoured his other book The Science of Storytelling. The contents of the book were very revealing and gave me a new understanding about human behavior and motivation in relation to status.
+* One thing I didn't enjoy as much was the new terms he created to summarize really complex and interconnected ideas. It was fine for a the first few chapters, but I ended up feeling a bit confused until I started writing down the terms and what they actually referred to. 
+	* For example: **interpreter module** is used to describe the brain's ability to look at the world and notice symbols as status indicators based on how groups of people interact and react with them. It might be because my background's in neuroscience, but I kept picturing an actual cortical structure dubbed the interpreter module instead of the various behavior-related circuits present. 
+* Slowly going through this - intense but insightful read!
+
+
+# Section 1
+
 ### Chapter 2: getting along, getting ahead.  
 
 > [!Summary] 
@@ -30,7 +38,8 @@ last-modified: 09-12-2024
 - To our brains, status is a resource as real as oxygen or water. When we lose it, we break.  
   
 ### Chapter 3: an imagined world of symbols.  
-- – interpreter module – this perspective of the brain sets up our linkage of simples as status indicators by representing the world as a reward space.  
+Our brains interpret the world as a reward space
+- **interpreter module:** Storr uses **interpreter module** to describe that the complex neural network in our brains links symbols as status indicators depending on how others interact with them. 
 - – hypothesis: gives us clear goals and rewards. Indicators of how well we’re doing in order to get more resources/reproduce. Symbols are easily identifiable sign posts.  
 - – Symbols and etiquette around them can be anything. Example: yam size and not being seen looking at peoples yams. Also number of pens on desk.  
 - – – A brain as an interpreter module makes it quite obvious that we really have “evolved “at all  
@@ -56,7 +65,8 @@ last-modified: 09-12-2024
 – common games/rules include: helping family/group, return favors, be brave, defer to superiors, divide resources, fairly, and respect others property.  
 Change across space time: Asia centric versus West. Sea culture map book.  
 – You can’t opt out of the game, only by isolation. HIKIKOMORI.  
-  
+
+# Section 2
 ### Chapter 5: the three games.  
 – there are three types of game: dominance, virtue, and success  
 – games are never pure – there are only blends of the three different factors.  
@@ -83,7 +93,7 @@ Change across space time: Asia centric versus West. Sea culture map book.
 – Prestige programs can work to nudge or let go of behavior, but only when the player is already of high importance and influence. Example: decline of shark fin fishing in China.  
 – influence is the ability to drive and achieve change in a group. In dominance games, it manifest as power, and willingly offered by players in prestige games. We take it highly personal when our suggestions/influence attempts fail – which can trigger hurt or vengeful reactions. At this turning point, the player might try to grab status by dominance.  
   
-### Chapter 7: dominance games.  
+### Chapter 7: dominance games  
 – dominance was the first status system to develop in humans neurologically, and sits below the prestige systems that recently developed in our evolution. Second self is a phrase used to describe the dominance related system.  
 – we are prone to following leaders with dominance, heavy persona versus prestige, even though the results are worse with dominance personas. For example we are more likely to pick very dominant persona during times of war or whenever the status of our game is under threat, and pick leaders with more prestige systems during times of peace.  
 – – is it because they reassure us? Give us certainty?  
@@ -91,13 +101,15 @@ Change across space time: Asia centric versus West. Sea culture map book.
 – if status hierarchy is unclear, tendency reverts to second self, as in dominance  
   
 ### Chapter 8: male, grandiose, humiliated: the games most lethal.  
-– male grandiose, and humiliated are the three aspects that can up and the status game. Men are more likely to commit egregiously violent actions if they show signs of intense status seeking behavior and have been humiliated. Other genders share this to, to a less documented degree
+male, grandiose, and humiliated is a terrifying trifecta
+
 
 ## Big Ideas
 - [[./book-notes-home|book-notes-home]]
 - health changes in lockstep with status
-- solid face-to-face relationships is the key to surviving and thriving in old age
+- [[./solid face-to-face relationships is the key to surviving and thriving in old age|solid face-to-face relationships is the key to surviving and thriving in old age]]
 - we desire worth, acclaim, and to be of value
 - when freedom means expulsion from the meaning you've spent your life making, then freedom is hell
+- [[./The Science of Storytelling by Will Storr|The Science of Storytelling by Will Storr]]
 
 
