@@ -28,6 +28,6 @@ done
 
 echo "=== Organization Summary ==="
 echo "Articles: $(find content/Articles -type f ! -name "index.md" | wc -l) files"
-echo "Book Notes: $(find content/Book Notes -type f ! -name "index.md" | wc -l) files"
-echo "Second Brain: $(find content/Second Brain -type f ! -name "index.md" | wc -l) files"
+echo "Book Notes: $(find "content/Book Notes" -type f ! -name "index.md" | wc -l) files"
+echo "Second Brain: $(find "content/Second Brain" -type f ! -name "index.md" | wc -l) files"
 
