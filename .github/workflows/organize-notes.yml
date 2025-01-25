@@ -87,7 +87,7 @@ jobs:
         run: |
           git add -A content/
           git status
-          for file in $(git status --porcelain | grep '^[MAD]' | awk '{print $2}'); do
+          for file in $(git status --porcelain | grep '^[MAD]' | awk '{print $2}') | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'); do
               git restore --staged "$file"
           done
           if git diff --staged --quiet; then
