@@ -86,14 +86,10 @@ jobs:
       - name: Commit and push changes
         run: |
           git add -A content/
-          git status
-          for file in $(git status --porcelain | grep '^[MAD]' | awk '{print $2}') | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'); do
-              git restore --staged "$file"
-          done
           if git diff --staged --quiet; then
               echo "No changes to commit"
           else
-              git commit -m "Move and organize content files" || true
+              git commit -m "Move and organize content files"
               git pull --rebase origin v4
               git push origin v4
           fi
