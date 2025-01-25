@@ -39,9 +39,10 @@ jobs:
           find content/Articles -type f ! -name "index.md" -delete || true
           find content/"Book Notes" -type f ! -name "index.md" -delete || true
           find content/"Second Brain" -type f ! -name "index.md" -delete || true
+          find content -type f ! -name "index.md" -delete || true
 
       - name: Copy files from website to content
-        run: cp -r website/* content/
+        run: cp -r sync/* content/
 
       - name: Create and run organization script
         run: |
@@ -75,8 +76,8 @@ jobs:
 
           echo "=== Organization Summary ==="
           echo "Articles: $(find content/Articles -type f ! -name "index.md" | wc -l) files"
-          echo "Book Notes: $(find content/Book Notes -type f ! -name "index.md" | wc -l) files"
-          echo "Second Brain: $(find content/Second Brain -type f ! -name "index.md" | wc -l) files"
+          echo "Book Notes: $(find "content/Book Notes" -type f ! -name "index.md" | wc -l) files"
+          echo "Second Brain: $(find "content/Second Brain" -type f ! -name "index.md" | wc -l) files"
           ' > organize-notes.sh
 
           chmod +x organize-notes.sh
