@@ -29,8 +29,9 @@ jobs:
           git config user.email "aneurokumar@gmail.com"
           git fetch --all
           git checkout v4
-          git reset --hard origin/v4
-          git clean -fd
+          git add -A content/
+          git commit -m "organize content files"
+          git push origin v4
 
       - name: Setup repository
         run: |
