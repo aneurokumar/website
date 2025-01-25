@@ -29,6 +29,8 @@ jobs:
           git config user.email "aneurokumar@gmail.com"
           git fetch --all
           git checkout v4
+          git status
+          git config --global rebase.autoStash true
           
 
       - name: Setup repository
