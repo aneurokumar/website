@@ -40,9 +40,6 @@ jobs:
           find content/"Book Notes" -type f ! -name "index.md" -delete || true
           find content/"Second Brain" -type f ! -name "index.md" -delete || true
           find content -type f ! -name "index.md" -delete || true
-      
-      - name: unstage files
-        run: git reset
 
       - name: Copy files from website to content
         run: cp -r sync/* content/
@@ -90,13 +87,17 @@ jobs:
         run: |
           git add -A content/
           git status
+          for file in $(git status --porcelain | grep '^[MAD]' | awk '{print $2}'); do
+              git restore --staged "$file"
+          done
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+              echo "No changes to commit"
           else
-            git commit -m "Move and organize content files" || true
-            git pull --rebase origin v4
-            git push origin v4
+              git commit -m "Move and organize content files" || true
+              git pull --rebase origin v4
+              git push origin v4
           fi
+
 
       - name: Deploy with Quartz
         run: npx quartz sync
