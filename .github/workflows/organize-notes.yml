@@ -27,12 +27,14 @@ jobs:
         run: |
           git config user.name "aneurokumar"
           git config user.email "aneurokumar@gmail.com"
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git fetch --all
           git checkout v4
+          git reset --hard origin/v4
           git clean -fd
-          git stash
-          git pull origin v4
+
+      - name: Setup repository
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE/website/sync"
         
       - name: Setup content structure
         run: |
