@@ -8,7 +8,7 @@ tags:
 aliases:
   - 12 questions
 created: 2023-08-30
-last-modified: 2025-02-05
+last-modified: 2025-03-17
 ---
 **Related**: [[./Building a Second Brain by Tiago Forte|Building a Second Brain by Tiago Forte]], Personal Development MOC  
   
@@ -17,18 +17,18 @@ last-modified: 2025-02-05
   
 # Anu's 12 Favorite problems   
   
-1. how can I build real relationships without it feeling forced or shallow? #community  
-2. When should you follow the script vs use your instincts? #negotiation #power   
-3. How can I effectively teach people new techniques or machines in a way that empowers them? #psychology #learning   
-4. What role do culture rules play in human behavior? #culture   
-5. Where does this emotion come from, and how can it be processed or used in a healthy way? #psychology   
-6. How can I automate time-consuming tasks *without* sacrificing quality and experience-based learning? #programming #learning  
-7. how does environment influence our behaviors and habits? #neuroscience  
-8. how can I meaningful participate in a community? #community  
+1. How can I build real relationships without it feeling forced or shallow? #community  
+2. What fundamentals can I train to improve a skill? #skill #learning   
+3. When should you follow the script vs use your instincts? #negotiation #power   
+4. How can I effectively teach people new techniques or machines in a way that empowers them? #psychology #learning   
+5. how the environment can shape your behaviors and habits #culture #neuroscience  
+6. Where does this emotion come from, and how can it be processed or used in a healthy way? #psychology   
+7. automating time consuming tasks without sacrificing quality or rich experiences #programming #learning  
+8. how can I meaningfully participate in a community? #community  
 9. when is collectivism or individualism beneficial over the other? #culture  
 10. Do I believe the actions, reactions, and interactions of this character? #writing  
 11. What's the smallest change that can make the biggest difference? #change   
-12. What fundamentals can I train to improve a skill? #skill #learning   
+  
   
   
 A little more about how to actually use this:  
