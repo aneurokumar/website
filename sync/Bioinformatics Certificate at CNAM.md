@@ -5,9 +5,9 @@ tags:
   - bioinformatics
   - cnam
 created: 2025-01-12
-last-modified: 2025-01-30
+last-modified: 2025-02-28
 ---
-**Related**:  
+**Related**: Dipôme d'ingénieur Génie biologique  
   
 ---  
   
