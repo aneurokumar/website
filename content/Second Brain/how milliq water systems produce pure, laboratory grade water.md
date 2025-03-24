@@ -4,8 +4,9 @@ title:
 tags:
   - chemistry
   - ions
+  - water
 created: 2024-12-30
-last-modified: 2025-02-03
+last-modified: 2025-02-14
 ---
 **Related:** [[./Lab Management MOC|Lab Management MOC]], Hardwater into dishwasher and milliq machine ruining machines  
   
@@ -38,9 +39,11 @@ Separation of water molecules from other substances using a semi-permeable membr
 This is the process to remove all dissolved salts. For deionization to work, the water must go through two [[./ion channels|ion exchange]] components.  
   
 *Step 1: Releasing H+ (hydrogen) ions*  
-How it works is the metallic ions in water stick themselves to the "exchange material," and then the exchange material releases hydrogen ions in proportion. This allows the overall electrical charges to be balanced. The water is partially treated at this point because the positive metallic ions are removed. Now it has a bunch of H+ ions and is acidic. So it goes to step 2.  
+The metallic ions in water stick themselves to the "exchange material," and then the exchange material releases a proportionate amount of hydrogen ions. This balances the overall electrical charge.  
   
 > **Examples**: A sodium ion (Na+) displaces one hydrogen ion (H+); Calcium ion (Ca+) displaces 2, Ferric ion (Fe+++) displaces 2, etc.  
+  
+At this point, the water is partially treated because the positive metallic ions are removed. However, with a bunch of new H+ ions, it's also become acidic. To fix it, we go to step 2.  
   
 *Step 2: releasing OH- (hydroxyl) ions*  
 The water treated in step 1 goes to another unit with anion exchange material. This exchange material usually has replaceable hydroxyl anions and fixed irreplaceable cations.  
@@ -56,6 +59,7 @@ What flows out of this now is ion-free water. The H+ ions and the OH- ions form 
 The water from step 2 is pumped through a tube or new chamber, past a UV light. The UV light kills UV-sensitive microorganisms (like Viruses and bacteria), and exits through the dispenser, purified.  
   
 ![[./how milliq water gets pure enough for laboratory use-1.png|how milliq water gets pure enough for laboratory use-1.png]]  
+  
   
   
 ## references/links  
