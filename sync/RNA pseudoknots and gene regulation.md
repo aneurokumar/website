@@ -5,8 +5,8 @@ tags:
   - rna
   - gene-protein-relationship
   - bcmb412
-created: 2024-12-27
-last-modified: 2025-02-03
+created: 27-12-2024
+last-modified: 23-03-2025
 ---
 **Related:** BCMB 412 Advanced Molecular Biology and Genomics  
   
