@@ -9,7 +9,7 @@ tags:
 created: 2025-02-28
 last-modified: 2025-03-04
 ---
-**Related**: BNF 103-PAR Bioinformatics Algorithims  
+**Related**: [[../BNF 103-PAR Bioinformatics Algorithims|BNF 103-PAR Bioinformatics Algorithims]]  
   
 ---  
 [[./nested loops and their usage in algorithms|nested loops and their usage in algorithms]]  
@@ -18,7 +18,7 @@ the outer loop prevents redundancy in checking by increasing the starting index
 as the index i increases, the second loop j does its thing by increasing the ending index.  
 then we have k...which iterates from i to j  
   
-where can I even use this?? checkout [[Kadane's Algorithm - maximum sum subarray problem|Kadane's Algorithm - maximum sum subarray problem]] and [[./Big-O notation|Big-O notation]]  
+where can I even use this?? checkout [[../Kadane's Algorithm - maximum sum subarray problem|Kadane's Algorithm - maximum sum subarray problem]] and [[./Big-O notation and time complexity|Big-O notation and time complexity]]  
   
 # Applicable explanation  
 ## problem  

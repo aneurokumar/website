@@ -4,8 +4,9 @@ title:
 tags:
   - algorithms
   - bnf
-created: 2025-02-11
-last-modified: 2025-03-24
+  - fc-bnf-103
+created: 10-02-2025
+last-modified: 25-05-2025
 ---
 **Related**: [[../BNF 103-PAR Bioinformatics Algorithims|BNF 103-PAR Bioinformatics Algorithims]]  
   
@@ -92,5 +93,6 @@ Here's an example of what that can look like in plain language:
   
 ![[basics of algorithms and pseudocode2025-03_23.png|basics of algorithms and pseudocode2025-03_23.png]]  
   
+* what does cons do /// constructs a list  
 ## references/links  
 * [Pseudocode: What It Is and How to Write It \| Built In](https://builtin.com/data-science/pseudocode)
