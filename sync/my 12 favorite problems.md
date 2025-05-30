@@ -8,9 +8,9 @@ tags:
 aliases:
   - 12 questions
 created: 2023-08-30
-last-modified: 2025-03-17
+last-modified: 2025-05-27
 ---
-**Related**: [[./Building a Second Brain by Tiago Forte|Building a Second Brain by Tiago Forte]], Personal Development MOC  
+**Related**: [[../Building a Second Brain by Tiago Forte|Building a Second Brain by Tiago Forte]], [[../Personal Development MOC|Personal Development MOC]]  
   
 ---  
   
@@ -18,16 +18,16 @@ last-modified: 2025-03-17
 # Anu's 12 Favorite problems   
   
 1. How can I build real relationships without it feeling forced or shallow? #community  
-2. What fundamentals can I train to improve a skill? #skill #learning   
+2. [[../training fundamentals will elevate any skill|What fundamentals can I train to improve a skill?]] #skill #learning   
 3. When should you follow the script vs use your instincts? #negotiation #power   
 4. How can I effectively teach people new techniques or machines in a way that empowers them? #psychology #learning   
-5. how the environment can shape your behaviors and habits #culture #neuroscience  
+5. [[how the environment can shape your behaviors and habits|What role does environment (including culture) play in human behavior and habits?]] #culture #neuroscience  
 6. Where does this emotion come from, and how can it be processed or used in a healthy way? #psychology   
-7. automating time consuming tasks without sacrificing quality or rich experiences #programming #learning  
+7. [[./automating time consuming tasks without sacrificing quality or rich experiences|How can I automate time-consuming tasks without sacrificing quality and experience-based learning?]] #programming #learning  
 8. how can I meaningfully participate in a community? #community  
 9. when is collectivism or individualism beneficial over the other? #culture  
 10. Do I believe the actions, reactions, and interactions of this character? #writing  
-11. What's the smallest change that can make the biggest difference? #change   
+11. [[./the Pareto Principle|What's the smallest change that can make the biggest difference?]] #change   
   
   
   
