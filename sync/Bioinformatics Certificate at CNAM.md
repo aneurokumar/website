@@ -7,7 +7,7 @@ tags:
 created: 2025-01-12
 last-modified: 2025-02-28
 ---
-**Related**: Dipôme d'ingénieur Génie biologique  
+**Related**: [[../Diplôme d'ingénieur Génie biologique|Diplôme d'ingénieur Génie biologique]]  
   
 ---  
   
@@ -16,7 +16,7 @@ last-modified: 2025-02-28
   
 # Courses  
 * [[./BNF 101 Base Informatiques|BNF 101 Base Informatiques]]  
-* BNF 102 Initation à la programmation  
-* BNF 103-PAR Bioinformatics Algorithims  
+* [[../BNF 102 Initation à la programmation|BNF 102 Initation à la programmation]]  
+* [[../BNF 103-PAR Bioinformatics Algorithims|BNF 103-PAR Bioinformatics Algorithims]]  
 * BNF 104  
 * STAT 109
