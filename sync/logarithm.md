@@ -4,7 +4,7 @@ title:
 tags:
   - math
 created: 2025-05-27
-last-modified: 2025-05-27
+last-modified: 2025-06-10
 ---
 **Related**:  
   
@@ -33,6 +33,20 @@ $\log_{2}(8)=3$
 Common logarithm (log) are base 10. If they're base 10, they don't need to precise the base number  
   
 natural logarithms have a base e, also known as [[Euler's number|Euler's number]]  
+  
+# computer science - algorithms and logs  
+**[[../dichot algo example - ED 4|dichot]] (Binary Search)**  
+Time Complexity: $O(log⁡ n)$  
+**Quick Explanation**: This algorithm repeatedly divides the search interval in half, leading to logarithmic time complexity.  
+**Detailed explanation:**  
+* the code has one loop  
+* each iteration of the loop results in the vector length being cut in half  
+	* using [[logarithm|logarithm]], this can be expressed as $\log_{2}(n)$ = how many times I can divide by 2 before getting to 1  
+	* where $n$ are the number of elements in a vector pool  
+* the reason why it's defined as $log(n)$ and not $\log_{2}(n)$ is because in computer science log usually means $\log_{2}$ [^1] due to ignoring constant factors  
+	* so if the algorithm divides the problem by 2, 3, or 10 at each step, the growth characteristic is still logarithmic[^2]  
+* so time complexity of this algorithm in $O log(n)$  
+  
 # References  
   
 [^1]: [Introduction to Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
