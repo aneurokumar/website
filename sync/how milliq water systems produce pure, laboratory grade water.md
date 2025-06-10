@@ -6,9 +6,11 @@ tags:
   - ions
   - water
 created: 2024-12-30
-last-modified: 2025-02-14
+last-modified: 2025-06-02
+aliases:
+  - MilliQ machine
 ---
-**Related:** [[./Lab Management MOC|Lab Management MOC]], Hardwater into dishwasher and milliq machine ruining machines  
+**Related:** [[./Lab Management MOC|Lab Management MOC]], [[../Hardwater into dishwasher and milliq machine ruining machines|Hardwater into dishwasher and milliq machine ruining machines]]  
   
 ---  
   
@@ -39,7 +41,7 @@ Separation of water molecules from other substances using a semi-permeable membr
 This is the process to remove all dissolved salts. For deionization to work, the water must go through two [[./ion channels|ion exchange]] components.  
   
 *Step 1: Releasing H+ (hydrogen) ions*  
-The metallic ions in water stick themselves to the "exchange material," and then the exchange material releases a proportionate amount of hydrogen ions. This balances the overall electrical charge.  
+The metallic [[../ions|ions]] in water stick themselves to the "exchange material," and then the exchange material releases a proportionate amount of hydrogen ions. This balances the overall electrical charge.  
   
 > **Examples**: A sodium ion (Na+) displaces one hydrogen ion (H+); Calcium ion (Ca+) displaces 2, Ferric ion (Fe+++) displaces 2, etc.  
   
