@@ -41,12 +41,13 @@ Time Complexity: $O(log⁡ n)$
 **Detailed explanation:**  
 * the code has one loop  
 * each iteration of the loop results in the vector length being cut in half  
-	* using [[logarithm|logarithm]], this can be expressed as $\log_{2}(n)$ = how many times I can divide by 2 before getting to 1  
+	* using logarithm, this can be expressed as $\log_{2}(n)$ = how many times I can divide by 2 before getting to 1  
 	* where $n$ are the number of elements in a vector pool  
-* the reason why it's defined as $log(n)$ and not $\log_{2}(n)$ is because in computer science log usually means $\log_{2}$ [^1] due to ignoring constant factors  
-	* so if the algorithm divides the problem by 2, 3, or 10 at each step, the growth characteristic is still logarithmic[^2]  
+* the reason why it's defined as $log(n)$ and not $\log_{2}(n)$ is because in computer science log usually means $\log_{2}$ [^2] due to ignoring constant factors  
+	* so if the algorithm divides the problem by 2, 3, or 10 at each step, the growth characteristic is still logarithmic  
 * so time complexity of this algorithm in $O log(n)$  
   
 # References  
   
-[^1]: [Introduction to Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
+[^1]: [Introduction to Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)  
+[^2] [Time complexity binary search](https://math.stackexchange.com/questions/3224473/how-come-the-time-complexity-of-binary-search-is-log-n)
