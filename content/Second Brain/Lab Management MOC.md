@@ -4,9 +4,9 @@ title:
 tags:
   - "#management"
   - "#labmanagement"
-  - labsafety
-created: 17-08-2023
-last-modified: 10-04-2025
+  - lab-safety
+created: 2023-08-17
+last-modified: 2025-07-03
 ---
 **Related**: [[../Career Development & Business MOC|Career Development & Business MOC]]  
   
@@ -27,22 +27,19 @@ Lab Management is a huge part of my identity and career, and is a unique blend o
 - [[../types of life science core facilities|types of life science core facilities]]  
 - [[./navigating-change-management-in-labs|navigating-change-management-in-labs]]  
 - [[../SOP organization for labs|SOP organization for labs]]  
+- [[../Small Lab Process hacks|Small Lab Process hacks]]  
 - [[../managing cables for lab equipment|managing cables for lab equipment]]  
-- [[../Kaptitude Chemical Module|Kaptitude Chemical Module]]  
 - [[../ICM - Assistante Ingénieur|ICM - Assistante Ingénieur]]  
 - [[../How to defrost a freezer|How to defrost a freezer]]  
 - [[./encoding barcodes to show text|encoding barcodes to show text]]  
 - [[../Elemental Machines charge per element|Elemental Machines charge per element]]  
 - [[../cycle inventory + inventory types|cycle inventory + inventory types]]  
 - [[../basics of setting up a cell culture|basics of setting up a cell culture]]  
-- [[Lab Management MOC|Lab Management MOC]]  
-- [[../Small Lab Process hacks|Small Lab Process hacks]]  
 - [[../Biolabs - Lab Ops Associate|Biolabs - Lab Ops Associate]]  
+- [[../Kaptitude Chemical Module|Kaptitude Chemical Module]]  
+- [[Lab Management MOC|Lab Management MOC]]  
   
 # Safety  
-- [[../Liquid Nitrogen Procedure|Liquid Nitrogen Procedure]]  
-- [[../Fume Hood Training Notes|Fume Hood Training Notes]]  
-- [[Lab Management MOC|Lab Management MOC]]  
   
   
   

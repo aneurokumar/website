@@ -6,8 +6,8 @@ tags:
   - scheme
   - bnf
   - fc-bnf-103
-created: 2025-02-28
-last-modified: 2025-03-04
+created: 24-02-2025
+last-modified: 18-06-2025
 ---
 **Related**: [[../BNF 103-PAR Bioinformatics Algorithims|BNF 103-PAR Bioinformatics Algorithims]]  
   

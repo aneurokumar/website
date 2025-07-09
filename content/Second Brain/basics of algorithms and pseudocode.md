@@ -94,5 +94,6 @@ Here's an example of what that can look like in plain language:
 ![[basics of algorithms and pseudocode2025-03_23.png|basics of algorithms and pseudocode2025-03_23.png]]  
   
 * what does cons do /// constructs a list  
+<!--SR:!2025-06-20,2,230-->  
 ## references/links  
 * [Pseudocode: What It Is and How to Write It \| Built In](https://builtin.com/data-science/pseudocode)
