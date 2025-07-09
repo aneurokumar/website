@@ -5,7 +5,7 @@ tags:
   - programming
   - efficiency
 created: 2025-03-23
-last-modified: 2025-05-23
+last-modified: 2025-06-12
 aliases:
   - time complexity
 ---
